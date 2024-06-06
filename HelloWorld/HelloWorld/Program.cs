@@ -16,6 +16,7 @@ namespace HelloWorld
             // Yorumlar, kodunuzun anlamını artırmak ve başkalarının kodunuzu daha iyi anlamasını sağlamak için kullanılmalıdır.
 
             #region Hello World
+
             // Console.WriteLine ve Console.Write metodları, konsol ekranına çıktı yazdırmak için kullanılır.
             // WriteLine, verilen metni ekrana yazdırır ve ardından bir satır atlar.
             // Write ise verilen metni ekrana yazdırır ancak bir satır atlamaz, yani bir sonraki yazılan metin aynı satırda devam eder.
@@ -30,6 +31,7 @@ namespace HelloWorld
             // Boşluk karakteri ile iki kelime arasına bir boşluk ekliyoruz.
             Console.Write("Volkan");
             Console.Write(" Şener");
+
             #endregion
         }
     }
