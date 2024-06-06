@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DegiskenTanimlama", "DegiskenTanimlama\DegiskenTanimlama.csproj", "{6799A53C-2673-41CC-940F-D77098DB672B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6799A53C-2673-41CC-940F-D77098DB672B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6799A53C-2673-41CC-940F-D77098DB672B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6799A53C-2673-41CC-940F-D77098DB672B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6799A53C-2673-41CC-940F-D77098DB672B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36FC5F6E-2B16-4363-920D-DE2ABCA48B9C}
+	EndGlobalSection
+EndGlobal
