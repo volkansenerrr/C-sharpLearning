@@ -1,0 +1,7 @@
+C:\Users\I-Life\source\repos\Operatorler\Operatorler\bin\Debug\Operatorler.exe.config
+C:\Users\I-Life\source\repos\Operatorler\Operatorler\bin\Debug\Operatorler.exe
+C:\Users\I-Life\source\repos\Operatorler\Operatorler\bin\Debug\Operatorler.pdb
+C:\Users\I-Life\source\repos\Operatorler\Operatorler\obj\Debug\Operatorler.csproj.AssemblyReference.cache
+C:\Users\I-Life\source\repos\Operatorler\Operatorler\obj\Debug\Operatorler.csproj.CoreCompileInputs.cache
+C:\Users\I-Life\source\repos\Operatorler\Operatorler\obj\Debug\Operatorler.exe
+C:\Users\I-Life\source\repos\Operatorler\Operatorler\obj\Debug\Operatorler.pdb
