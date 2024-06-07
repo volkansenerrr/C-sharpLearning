@@ -1,0 +1,7 @@
+C:\Users\I-Life\source\repos\KullanicidanVeriAlma\KullanicidanVeriAlma\bin\Debug\KullanicidanVeriAlma.exe.config
+C:\Users\I-Life\source\repos\KullanicidanVeriAlma\KullanicidanVeriAlma\bin\Debug\KullanicidanVeriAlma.exe
+C:\Users\I-Life\source\repos\KullanicidanVeriAlma\KullanicidanVeriAlma\bin\Debug\KullanicidanVeriAlma.pdb
+C:\Users\I-Life\source\repos\KullanicidanVeriAlma\KullanicidanVeriAlma\obj\Debug\KullanicidanVeriAlma.csproj.AssemblyReference.cache
+C:\Users\I-Life\source\repos\KullanicidanVeriAlma\KullanicidanVeriAlma\obj\Debug\KullanicidanVeriAlma.csproj.CoreCompileInputs.cache
+C:\Users\I-Life\source\repos\KullanicidanVeriAlma\KullanicidanVeriAlma\obj\Debug\KullanicidanVeriAlma.exe
+C:\Users\I-Life\source\repos\KullanicidanVeriAlma\KullanicidanVeriAlma\obj\Debug\KullanicidanVeriAlma.pdb
