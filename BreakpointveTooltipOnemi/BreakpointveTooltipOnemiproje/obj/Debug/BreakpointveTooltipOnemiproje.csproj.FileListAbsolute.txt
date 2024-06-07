@@ -1,0 +1,14 @@
+C:\Users\I-Life\source\repos\BreakpointveTooltipOnemiproje\BreakpointveTooltipOnemiproje\bin\Debug\BreakpointveTooltipOnemiproje.exe.config
+C:\Users\I-Life\source\repos\BreakpointveTooltipOnemiproje\BreakpointveTooltipOnemiproje\bin\Debug\BreakpointveTooltipOnemiproje.exe
+C:\Users\I-Life\source\repos\BreakpointveTooltipOnemiproje\BreakpointveTooltipOnemiproje\bin\Debug\BreakpointveTooltipOnemiproje.pdb
+C:\Users\I-Life\source\repos\BreakpointveTooltipOnemiproje\BreakpointveTooltipOnemiproje\obj\Debug\BreakpointveTooltipOnemiproje.csproj.AssemblyReference.cache
+C:\Users\I-Life\source\repos\BreakpointveTooltipOnemiproje\BreakpointveTooltipOnemiproje\obj\Debug\BreakpointveTooltipOnemiproje.csproj.CoreCompileInputs.cache
+C:\Users\I-Life\source\repos\BreakpointveTooltipOnemiproje\BreakpointveTooltipOnemiproje\obj\Debug\BreakpointveTooltipOnemiproje.exe
+C:\Users\I-Life\source\repos\BreakpointveTooltipOnemiproje\BreakpointveTooltipOnemiproje\obj\Debug\BreakpointveTooltipOnemiproje.pdb
+C:\Users\I-Life\source\repos\BreakpointveTooltipOnemi\BreakpointveTooltipOnemiproje\bin\Debug\BreakpointveTooltipOnemiproje.exe.config
+C:\Users\I-Life\source\repos\BreakpointveTooltipOnemi\BreakpointveTooltipOnemiproje\bin\Debug\BreakpointveTooltipOnemiproje.exe
+C:\Users\I-Life\source\repos\BreakpointveTooltipOnemi\BreakpointveTooltipOnemiproje\bin\Debug\BreakpointveTooltipOnemiproje.pdb
+C:\Users\I-Life\source\repos\BreakpointveTooltipOnemi\BreakpointveTooltipOnemiproje\obj\Debug\BreakpointveTooltipOnemiproje.csproj.AssemblyReference.cache
+C:\Users\I-Life\source\repos\BreakpointveTooltipOnemi\BreakpointveTooltipOnemiproje\obj\Debug\BreakpointveTooltipOnemiproje.csproj.CoreCompileInputs.cache
+C:\Users\I-Life\source\repos\BreakpointveTooltipOnemi\BreakpointveTooltipOnemiproje\obj\Debug\BreakpointveTooltipOnemiproje.exe
+C:\Users\I-Life\source\repos\BreakpointveTooltipOnemi\BreakpointveTooltipOnemiproje\obj\Debug\BreakpointveTooltipOnemiproje.pdb
