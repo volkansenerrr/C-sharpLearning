@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\I-Life\\source\\repos\\TurDonusumleri\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{316EA476-5A9E-44B8-A357-E4A9B8EDE922}|TurDonusumleri\\TurDonusumleri.csproj|c:\\users\\i-life\\source\\repos\\turdonusumleri\\turdonusumleri\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{316EA476-5A9E-44B8-A357-E4A9B8EDE922}|TurDonusumleri\\TurDonusumleri.csproj|solutionrelative:turdonusumleri\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\I-Life\\source\\repos\\TurDonusumleri\\TurDonusumleri\\Program.cs",
+              "RelativeDocumentMoniker": "TurDonusumleri\\Program.cs",
+              "ToolTip": "C:\\Users\\I-Life\\source\\repos\\TurDonusumleri\\TurDonusumleri\\Program.cs",
+              "RelativeToolTip": "TurDonusumleri\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwEcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T00:24:19.564Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
