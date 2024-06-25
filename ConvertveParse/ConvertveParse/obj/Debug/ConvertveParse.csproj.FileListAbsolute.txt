@@ -1,0 +1,7 @@
+C:\Users\I-Life\source\repos\ConvertveParse\ConvertveParse\bin\Debug\ConvertveParse.exe.config
+C:\Users\I-Life\source\repos\ConvertveParse\ConvertveParse\bin\Debug\ConvertveParse.exe
+C:\Users\I-Life\source\repos\ConvertveParse\ConvertveParse\bin\Debug\ConvertveParse.pdb
+C:\Users\I-Life\source\repos\ConvertveParse\ConvertveParse\obj\Debug\ConvertveParse.csproj.AssemblyReference.cache
+C:\Users\I-Life\source\repos\ConvertveParse\ConvertveParse\obj\Debug\ConvertveParse.csproj.CoreCompileInputs.cache
+C:\Users\I-Life\source\repos\ConvertveParse\ConvertveParse\obj\Debug\ConvertveParse.exe
+C:\Users\I-Life\source\repos\ConvertveParse\ConvertveParse\obj\Debug\ConvertveParse.pdb
