@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\I-Life\\source\\repos\\DongulerLoops\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65390B4A-BA41-4179-9F78-7E4F75CBC8CA}|DongulerLoops\\DongulerLoops.csproj|c:\\users\\i-life\\source\\repos\\dongulerloops\\dongulerloops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65390B4A-BA41-4179-9F78-7E4F75CBC8CA}|DongulerLoops\\DongulerLoops.csproj|solutionrelative:dongulerloops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\I-Life\\source\\repos\\DongulerLoops\\DongulerLoops\\Program.cs",
+              "RelativeDocumentMoniker": "DongulerLoops\\Program.cs",
+              "ToolTip": "C:\\Users\\I-Life\\source\\repos\\DongulerLoops\\DongulerLoops\\Program.cs",
+              "RelativeToolTip": "DongulerLoops\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwMcFAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T23:39:19.316Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
