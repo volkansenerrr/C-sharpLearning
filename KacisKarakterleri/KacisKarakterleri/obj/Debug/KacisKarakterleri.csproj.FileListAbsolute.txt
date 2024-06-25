@@ -1,0 +1,7 @@
+C:\Users\I-Life\source\repos\KacisKarakterleri\KacisKarakterleri\bin\Debug\KacisKarakterleri.exe.config
+C:\Users\I-Life\source\repos\KacisKarakterleri\KacisKarakterleri\bin\Debug\KacisKarakterleri.exe
+C:\Users\I-Life\source\repos\KacisKarakterleri\KacisKarakterleri\bin\Debug\KacisKarakterleri.pdb
+C:\Users\I-Life\source\repos\KacisKarakterleri\KacisKarakterleri\obj\Debug\KacisKarakterleri.csproj.AssemblyReference.cache
+C:\Users\I-Life\source\repos\KacisKarakterleri\KacisKarakterleri\obj\Debug\KacisKarakterleri.csproj.CoreCompileInputs.cache
+C:\Users\I-Life\source\repos\KacisKarakterleri\KacisKarakterleri\obj\Debug\KacisKarakterleri.exe
+C:\Users\I-Life\source\repos\KacisKarakterleri\KacisKarakterleri\obj\Debug\KacisKarakterleri.pdb
