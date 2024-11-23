@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\I-Life\\source\\repos\\ConvertveParse\\",
+  "WorkspaceRootPath": "C:\\Users\\I-Life\\OneDrive\\Documents\\GitHub\\C-sharpLearning\\ConvertveParse\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{368C16D0-EDF6-4B12-838D-678CB2E35926}|ConvertveParse\\ConvertveParse.csproj|c:\\users\\i-life\\source\\repos\\convertveparse\\convertveparse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{368C16D0-EDF6-4B12-838D-678CB2E35926}|ConvertveParse\\ConvertveParse.csproj|c:\\users\\i-life\\onedrive\\documents\\github\\c-sharplearning\\convertveparse\\convertveparse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{368C16D0-EDF6-4B12-838D-678CB2E35926}|ConvertveParse\\ConvertveParse.csproj|solutionrelative:convertveparse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\I-Life\\source\\repos\\ConvertveParse\\ConvertveParse\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\I-Life\\OneDrive\\Documents\\GitHub\\C-sharpLearning\\ConvertveParse\\ConvertveParse\\Program.cs",
               "RelativeDocumentMoniker": "ConvertveParse\\Program.cs",
-              "ToolTip": "C:\\Users\\I-Life\\source\\repos\\ConvertveParse\\ConvertveParse\\Program.cs",
+              "ToolTip": "C:\\Users\\I-Life\\OneDrive\\Documents\\GitHub\\C-sharpLearning\\ConvertveParse\\ConvertveParse\\Program.cs",
               "RelativeToolTip": "ConvertveParse\\Program.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBgAAAAXAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwBgAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-25T13:19:39.153Z",
               "EditorCaption": ""

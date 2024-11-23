@@ -112,7 +112,21 @@ namespace DegiskenTanimlama
 
             #endregion
 
-            // Ondalık Değişkenler ---> double, float, decimal
+            // Ondalık Değişkenler ---> float, double, decimal
+
+            #region float 
+
+            // float veri tipinde değişkenler RAM bellekte 32 bitlik(4 byte) yer kaplar.
+            // float ondalikliSayi = 30.5; // hata alırız çünkü float değişkeni tanımladık 30.5 sayısının sonuna F veya f koyarak float türünün float olduğunu belirtmemiz gerekmektedir. Sebebi C# ortamında noktalı sayıların varsayılan(default) değeri double'dır. double değerini float dönüştürmek için f koyarız.
+
+            // 30.5f;
+
+            float fltondalikliSayi = 29.30f;
+            Console.WriteLine(fltondalikliSayi);
+
+            Console.WriteLine("float veri tipinde bir değişken " + float.MaxValue + " ve " + float.MinValue + " arasında değerleri alabilir.");
+
+            #endregion
 
             #region double
 
@@ -129,20 +143,6 @@ namespace DegiskenTanimlama
             Console.WriteLine("double veri tipinde bir değişkenin alabileceği minimum değer = " + double.MinValue);
             Console.WriteLine("---------------------------------------------------------------------------------------");
             Console.WriteLine("double veri tipinde bir değişkenin alacağı değerler " + double.MaxValue + " ile " + double.MinValue + " arasındadır.");
-
-            #endregion
-
-            #region float 
-
-            // float veri tipinde değişkenler RAM bellekte 32 bitlik(4 byte) yer kaplar.
-            // float ondalikliSayi = 30.5; // hata alırız çünkü float değişkeni tanımladık 30.5 sayısının sonuna F veya f koyarak float türünün float olduğunu belirtmemiz gerekmektedir. Sebebi C# ortamında noktalı sayıların varsayılan(default) değeri double'dır. double değerini float dönüştürmek için f koyarız.
-
-            // 30.5f;
-
-            float fltondalikliSayi = 29.30f;
-            Console.WriteLine(fltondalikliSayi);
-
-            Console.WriteLine("float veri tipinde bir değişken " + float.MaxValue + " ve " + float.MinValue + " arasında değerleri alabilir.");
 
             #endregion
 
