@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\I-Life\\source\\repos\\Metotlar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{108DAD85-DA09-410D-8C8E-DF7114EF540B}|Metotlar\\Metotlar.csproj|c:\\users\\i-life\\source\\repos\\metotlar\\metotlar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{108DAD85-DA09-410D-8C8E-DF7114EF540B}|Metotlar\\Metotlar.csproj|solutionrelative:metotlar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{108DAD85-DA09-410D-8C8E-DF7114EF540B}|Metotlar\\Metotlar.csproj|C:\\Users\\I-Life\\source\\repos\\Metotlar\\metotlar\\metinislem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{108DAD85-DA09-410D-8C8E-DF7114EF540B}|Metotlar\\Metotlar.csproj|solutionrelative:metotlar\\metinislem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{108DAD85-DA09-410D-8C8E-DF7114EF540B}|Metotlar\\Metotlar.csproj|C:\\Users\\I-Life\\source\\repos\\Metotlar\\metotlar\\matematik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{108DAD85-DA09-410D-8C8E-DF7114EF540B}|Metotlar\\Metotlar.csproj|solutionrelative:metotlar\\matematik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{108DAD85-DA09-410D-8C8E-DF7114EF540B}|Metotlar\\Metotlar.csproj|C:\\Users\\I-Life\\source\\repos\\Metotlar\\metotlar\\cirak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{108DAD85-DA09-410D-8C8E-DF7114EF540B}|Metotlar\\Metotlar.csproj|solutionrelative:metotlar\\cirak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MetinIslem.cs",
+              "DocumentMoniker": "C:\\Users\\I-Life\\source\\repos\\Metotlar\\Metotlar\\MetinIslem.cs",
+              "RelativeDocumentMoniker": "Metotlar\\MetinIslem.cs",
+              "ToolTip": "C:\\Users\\I-Life\\source\\repos\\Metotlar\\Metotlar\\MetinIslem.cs",
+              "RelativeToolTip": "Metotlar\\MetinIslem.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwFkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T15:02:28.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Matematik.cs",
+              "DocumentMoniker": "C:\\Users\\I-Life\\source\\repos\\Metotlar\\Metotlar\\Matematik.cs",
+              "RelativeDocumentMoniker": "Metotlar\\Matematik.cs",
+              "ToolTip": "C:\\Users\\I-Life\\source\\repos\\Metotlar\\Metotlar\\Matematik.cs",
+              "RelativeToolTip": "Metotlar\\Matematik.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAgwC0AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T14:16:07.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cirak.cs",
+              "DocumentMoniker": "C:\\Users\\I-Life\\source\\repos\\Metotlar\\Metotlar\\Cirak.cs",
+              "RelativeDocumentMoniker": "Metotlar\\Cirak.cs",
+              "ToolTip": "C:\\Users\\I-Life\\source\\repos\\Metotlar\\Metotlar\\Cirak.cs",
+              "RelativeToolTip": "Metotlar\\Cirak.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAzwB8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T13:33:34.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\I-Life\\source\\repos\\Metotlar\\Metotlar\\Program.cs",
+              "RelativeDocumentMoniker": "Metotlar\\Program.cs",
+              "ToolTip": "C:\\Users\\I-Life\\source\\repos\\Metotlar\\Metotlar\\Program.cs",
+              "RelativeToolTip": "Metotlar\\Program.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAQwG4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T13:11:17.705Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

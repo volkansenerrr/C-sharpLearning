@@ -1,0 +1,7 @@
+C:\Users\I-Life\source\repos\NesneYonelimliProgramlamaOdev\NesneYonelimliProgramlamaOdev\obj\Debug\NesneYonelimliProgramlamaOdev.csproj.AssemblyReference.cache
+C:\Users\I-Life\source\repos\NesneYonelimliProgramlamaOdev\NesneYonelimliProgramlamaOdev\obj\Debug\NesneYonelimliProgramlamaOdev.csproj.CoreCompileInputs.cache
+C:\Users\I-Life\source\repos\NesneYonelimliProgramlamaOdev\NesneYonelimliProgramlamaOdev\bin\Debug\NesneYonelimliProgramlamaOdev.exe.config
+C:\Users\I-Life\source\repos\NesneYonelimliProgramlamaOdev\NesneYonelimliProgramlamaOdev\bin\Debug\NesneYonelimliProgramlamaOdev.exe
+C:\Users\I-Life\source\repos\NesneYonelimliProgramlamaOdev\NesneYonelimliProgramlamaOdev\bin\Debug\NesneYonelimliProgramlamaOdev.pdb
+C:\Users\I-Life\source\repos\NesneYonelimliProgramlamaOdev\NesneYonelimliProgramlamaOdev\obj\Debug\NesneYonelimliProgramlamaOdev.exe
+C:\Users\I-Life\source\repos\NesneYonelimliProgramlamaOdev\NesneYonelimliProgramlamaOdev\obj\Debug\NesneYonelimliProgramlamaOdev.pdb

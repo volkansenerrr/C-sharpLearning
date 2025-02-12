@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\I-Life\\source\\repos\\Generic(Jenerik)Koleksiyonlar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6948493-B8D0-4E06-AF73-6A08B4B2F50E}|Generic(Jenerik)Koleksiyonlar\\Generic(Jenerik)Koleksiyonlar.csproj|c:\\users\\i-life\\source\\repos\\generic(jenerik)koleksiyonlar\\generic(jenerik)koleksiyonlar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6948493-B8D0-4E06-AF73-6A08B4B2F50E}|Generic(Jenerik)Koleksiyonlar\\Generic(Jenerik)Koleksiyonlar.csproj|solutionrelative:generic(jenerik)koleksiyonlar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\I-Life\\source\\repos\\Generic(Jenerik)Koleksiyonlar\\Generic(Jenerik)Koleksiyonlar\\Program.cs",
+              "RelativeDocumentMoniker": "Generic(Jenerik)Koleksiyonlar\\Program.cs",
+              "ToolTip": "C:\\Users\\I-Life\\source\\repos\\Generic(Jenerik)Koleksiyonlar\\Generic(Jenerik)Koleksiyonlar\\Program.cs",
+              "RelativeToolTip": "Generic(Jenerik)Koleksiyonlar\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T15:40:06.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

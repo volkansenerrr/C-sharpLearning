@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\I-Life\\source\\repos\\YapiciMetotlar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09577184-211A-4943-8274-E8FF1FD6E23E}|YapiciMetotlar\\YapiciMetotlar.csproj|C:\\Users\\I-Life\\source\\repos\\YapiciMetotlar\\yapicimetotlar\\personel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09577184-211A-4943-8274-E8FF1FD6E23E}|YapiciMetotlar\\YapiciMetotlar.csproj|solutionrelative:yapicimetotlar\\personel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09577184-211A-4943-8274-E8FF1FD6E23E}|YapiciMetotlar\\YapiciMetotlar.csproj|C:\\Users\\I-Life\\source\\repos\\YapiciMetotlar\\yapicimetotlar\\insan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09577184-211A-4943-8274-E8FF1FD6E23E}|YapiciMetotlar\\YapiciMetotlar.csproj|solutionrelative:yapicimetotlar\\insan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09577184-211A-4943-8274-E8FF1FD6E23E}|YapiciMetotlar\\YapiciMetotlar.csproj|c:\\users\\i-life\\source\\repos\\yapicimetotlar\\yapicimetotlar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09577184-211A-4943-8274-E8FF1FD6E23E}|YapiciMetotlar\\YapiciMetotlar.csproj|solutionrelative:yapicimetotlar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Personel.cs",
+              "DocumentMoniker": "C:\\Users\\I-Life\\source\\repos\\YapiciMetotlar\\YapiciMetotlar\\Personel.cs",
+              "RelativeDocumentMoniker": "YapiciMetotlar\\Personel.cs",
+              "ToolTip": "C:\\Users\\I-Life\\source\\repos\\YapiciMetotlar\\YapiciMetotlar\\Personel.cs",
+              "RelativeToolTip": "YapiciMetotlar\\Personel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T14:00:48.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Insan.cs",
+              "DocumentMoniker": "C:\\Users\\I-Life\\source\\repos\\YapiciMetotlar\\YapiciMetotlar\\Insan.cs",
+              "RelativeDocumentMoniker": "YapiciMetotlar\\Insan.cs",
+              "ToolTip": "C:\\Users\\I-Life\\source\\repos\\YapiciMetotlar\\YapiciMetotlar\\Insan.cs",
+              "RelativeToolTip": "YapiciMetotlar\\Insan.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T13:50:40.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\I-Life\\source\\repos\\YapiciMetotlar\\YapiciMetotlar\\Program.cs",
+              "RelativeDocumentMoniker": "YapiciMetotlar\\Program.cs",
+              "ToolTip": "C:\\Users\\I-Life\\source\\repos\\YapiciMetotlar\\YapiciMetotlar\\Program.cs",
+              "RelativeToolTip": "YapiciMetotlar\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T13:48:26.356Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\I-Life\source\repos\DeynekciOtopark\DeynekciOtopark\bin\Debug\DeynekciOtopark.exe.config
+C:\Users\I-Life\source\repos\DeynekciOtopark\DeynekciOtopark\bin\Debug\DeynekciOtopark.exe
+C:\Users\I-Life\source\repos\DeynekciOtopark\DeynekciOtopark\bin\Debug\DeynekciOtopark.pdb
+C:\Users\I-Life\source\repos\DeynekciOtopark\DeynekciOtopark\obj\Debug\DeynekciOtopark.csproj.AssemblyReference.cache
+C:\Users\I-Life\source\repos\DeynekciOtopark\DeynekciOtopark\obj\Debug\DeynekciOtopark.csproj.CoreCompileInputs.cache
+C:\Users\I-Life\source\repos\DeynekciOtopark\DeynekciOtopark\obj\Debug\DeynekciOtopark.exe
+C:\Users\I-Life\source\repos\DeynekciOtopark\DeynekciOtopark\obj\Debug\DeynekciOtopark.pdb

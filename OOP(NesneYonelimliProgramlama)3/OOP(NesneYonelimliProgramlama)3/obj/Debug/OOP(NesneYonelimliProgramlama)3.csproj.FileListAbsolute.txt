@@ -1,0 +1,7 @@
+C:\Users\I-Life\source\repos\OOP(NesneYonelimliProgramlama)3\OOP(NesneYonelimliProgramlama)3\bin\Debug\OOP(NesneYonelimliProgramlama)3.exe.config
+C:\Users\I-Life\source\repos\OOP(NesneYonelimliProgramlama)3\OOP(NesneYonelimliProgramlama)3\bin\Debug\OOP(NesneYonelimliProgramlama)3.exe
+C:\Users\I-Life\source\repos\OOP(NesneYonelimliProgramlama)3\OOP(NesneYonelimliProgramlama)3\bin\Debug\OOP(NesneYonelimliProgramlama)3.pdb
+C:\Users\I-Life\source\repos\OOP(NesneYonelimliProgramlama)3\OOP(NesneYonelimliProgramlama)3\obj\Debug\OOP(NesneYonelimliProgramlama)3.csproj.AssemblyReference.cache
+C:\Users\I-Life\source\repos\OOP(NesneYonelimliProgramlama)3\OOP(NesneYonelimliProgramlama)3\obj\Debug\OOP(NesneYonelimliProgramlama)3.csproj.CoreCompileInputs.cache
+C:\Users\I-Life\source\repos\OOP(NesneYonelimliProgramlama)3\OOP(NesneYonelimliProgramlama)3\obj\Debug\OOP(NesneYonelimliProgramlama)3.exe
+C:\Users\I-Life\source\repos\OOP(NesneYonelimliProgramlama)3\OOP(NesneYonelimliProgramlama)3\obj\Debug\OOP(NesneYonelimliProgramlama)3.pdb

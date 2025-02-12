@@ -1,0 +1,7 @@
+C:\Users\I-Life\source\repos\methods(metotlar)devam2\methods(metotlar)devam2\bin\Debug\methods(metotlar)devam2.exe.config
+C:\Users\I-Life\source\repos\methods(metotlar)devam2\methods(metotlar)devam2\bin\Debug\methods(metotlar)devam2.exe
+C:\Users\I-Life\source\repos\methods(metotlar)devam2\methods(metotlar)devam2\bin\Debug\methods(metotlar)devam2.pdb
+C:\Users\I-Life\source\repos\methods(metotlar)devam2\methods(metotlar)devam2\obj\Debug\methods(metotlar)devam2.csproj.AssemblyReference.cache
+C:\Users\I-Life\source\repos\methods(metotlar)devam2\methods(metotlar)devam2\obj\Debug\methods(metotlar)devam2.csproj.CoreCompileInputs.cache
+C:\Users\I-Life\source\repos\methods(metotlar)devam2\methods(metotlar)devam2\obj\Debug\methods(metotlar)devam2.exe
+C:\Users\I-Life\source\repos\methods(metotlar)devam2\methods(metotlar)devam2\obj\Debug\methods(metotlar)devam2.pdb

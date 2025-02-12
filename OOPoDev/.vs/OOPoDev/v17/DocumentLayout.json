@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\I-Life\\source\\repos\\OOPoDev\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97FA042A-BEBF-425E-8B02-5F51B90E149B}|OOPoDev\\OOPoDev.csproj|c:\\users\\i-life\\source\\repos\\oopodev\\oopodev\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97FA042A-BEBF-425E-8B02-5F51B90E149B}|OOPoDev\\OOPoDev.csproj|solutionrelative:oopodev\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97FA042A-BEBF-425E-8B02-5F51B90E149B}|OOPoDev\\OOPoDev.csproj|C:\\Users\\I-Life\\source\\repos\\OOPoDev\\oopodev\\urun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97FA042A-BEBF-425E-8B02-5F51B90E149B}|OOPoDev\\OOPoDev.csproj|solutionrelative:oopodev\\urun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Urun.cs",
+              "DocumentMoniker": "C:\\Users\\I-Life\\source\\repos\\OOPoDev\\OOPoDev\\Urun.cs",
+              "RelativeDocumentMoniker": "OOPoDev\\Urun.cs",
+              "ToolTip": "C:\\Users\\I-Life\\source\\repos\\OOPoDev\\OOPoDev\\Urun.cs",
+              "RelativeToolTip": "OOPoDev\\Urun.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T21:52:41.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\I-Life\\source\\repos\\OOPoDev\\OOPoDev\\Program.cs",
+              "RelativeDocumentMoniker": "OOPoDev\\Program.cs",
+              "ToolTip": "C:\\Users\\I-Life\\source\\repos\\OOPoDev\\OOPoDev\\Program.cs",
+              "RelativeToolTip": "OOPoDev\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKAAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T21:49:44.157Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

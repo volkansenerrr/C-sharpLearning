@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\I-Life\\source\\repos\\OgrenciBilgilendirmeSistemiv2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{974A7CA0-E376-4FF7-A3FD-32336F63F2B2}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\i-life\\source\\repos\\ogrencibilgilendirmesistemiv2\\dataaccesslayer\\baglantiyollari.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{974A7CA0-E376-4FF7-A3FD-32336F63F2B2}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\baglantiyollari.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9880515-37CE-4FEE-BB15-F0E4EC651896}|OgrenciBilgilendirmeSistemiv2\\OgrenciBilgilendirmeSistemiv2.csproj|C:\\Users\\I-Life\\source\\repos\\OgrenciBilgilendirmeSistemiv2\\ogrencibilgilendirmesistemiv2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9880515-37CE-4FEE-BB15-F0E4EC651896}|OgrenciBilgilendirmeSistemiv2\\OgrenciBilgilendirmeSistemiv2.csproj|solutionrelative:ogrencibilgilendirmesistemiv2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{974A7CA0-E376-4FF7-A3FD-32336F63F2B2}|DataAccessLayer\\DataAccessLayer.csproj|C:\\Users\\I-Life\\source\\repos\\OgrenciBilgilendirmeSistemiv2\\dataaccesslayer\\datamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{974A7CA0-E376-4FF7-A3FD-32336F63F2B2}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\datamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{974A7CA0-E376-4FF7-A3FD-32336F63F2B2}|DataAccessLayer\\DataAccessLayer.csproj|C:\\Users\\I-Life\\source\\repos\\OgrenciBilgilendirmeSistemiv2\\dataaccesslayer\\ogretmen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{974A7CA0-E376-4FF7-A3FD-32336F63F2B2}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\ogretmen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "baglantiYollari.cs",
+              "DocumentMoniker": "C:\\Users\\I-Life\\source\\repos\\OgrenciBilgilendirmeSistemiv2\\DataAccessLayer\\baglantiYollari.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\baglantiYollari.cs",
+              "ToolTip": "C:\\Users\\I-Life\\source\\repos\\OgrenciBilgilendirmeSistemiv2\\DataAccessLayer\\baglantiYollari.cs",
+              "RelativeToolTip": "DataAccessLayer\\baglantiYollari.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T12:24:34.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ogretmen.cs",
+              "DocumentMoniker": "C:\\Users\\I-Life\\source\\repos\\OgrenciBilgilendirmeSistemiv2\\DataAccessLayer\\Ogretmen.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Ogretmen.cs",
+              "ToolTip": "C:\\Users\\I-Life\\source\\repos\\OgrenciBilgilendirmeSistemiv2\\DataAccessLayer\\Ogretmen.cs",
+              "RelativeToolTip": "DataAccessLayer\\Ogretmen.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T12:24:34.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataModel.cs",
+              "DocumentMoniker": "C:\\Users\\I-Life\\source\\repos\\OgrenciBilgilendirmeSistemiv2\\DataAccessLayer\\DataModel.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\DataModel.cs",
+              "ToolTip": "C:\\Users\\I-Life\\source\\repos\\OgrenciBilgilendirmeSistemiv2\\DataAccessLayer\\DataModel.cs",
+              "RelativeToolTip": "DataAccessLayer\\DataModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T12:24:34.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\I-Life\\source\\repos\\OgrenciBilgilendirmeSistemiv2\\OgrenciBilgilendirmeSistemiv2\\Program.cs",
+              "RelativeDocumentMoniker": "OgrenciBilgilendirmeSistemiv2\\Program.cs",
+              "ToolTip": "C:\\Users\\I-Life\\source\\repos\\OgrenciBilgilendirmeSistemiv2\\OgrenciBilgilendirmeSistemiv2\\Program.cs",
+              "RelativeToolTip": "OgrenciBilgilendirmeSistemiv2\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T12:24:34.442Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

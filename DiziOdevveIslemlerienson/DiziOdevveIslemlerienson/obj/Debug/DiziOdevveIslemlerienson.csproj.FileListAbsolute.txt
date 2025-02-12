@@ -1,0 +1,7 @@
+C:\Users\I-Life\source\repos\DiziOdevveIslemlerienson\DiziOdevveIslemlerienson\bin\Debug\DiziOdevveIslemlerienson.exe.config
+C:\Users\I-Life\source\repos\DiziOdevveIslemlerienson\DiziOdevveIslemlerienson\bin\Debug\DiziOdevveIslemlerienson.exe
+C:\Users\I-Life\source\repos\DiziOdevveIslemlerienson\DiziOdevveIslemlerienson\bin\Debug\DiziOdevveIslemlerienson.pdb
+C:\Users\I-Life\source\repos\DiziOdevveIslemlerienson\DiziOdevveIslemlerienson\obj\Debug\DiziOdevveIslemlerienson.csproj.AssemblyReference.cache
+C:\Users\I-Life\source\repos\DiziOdevveIslemlerienson\DiziOdevveIslemlerienson\obj\Debug\DiziOdevveIslemlerienson.csproj.CoreCompileInputs.cache
+C:\Users\I-Life\source\repos\DiziOdevveIslemlerienson\DiziOdevveIslemlerienson\obj\Debug\DiziOdevveIslemlerienson.exe
+C:\Users\I-Life\source\repos\DiziOdevveIslemlerienson\DiziOdevveIslemlerienson\obj\Debug\DiziOdevveIslemlerienson.pdb

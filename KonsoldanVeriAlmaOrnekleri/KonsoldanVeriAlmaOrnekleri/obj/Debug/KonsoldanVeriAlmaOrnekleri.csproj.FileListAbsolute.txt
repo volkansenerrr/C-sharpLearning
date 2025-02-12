@@ -1,0 +1,7 @@
+C:\Users\I-Life\source\repos\KonsoldanVeriAlmaOrnekleri\KonsoldanVeriAlmaOrnekleri\bin\Debug\KonsoldanVeriAlmaOrnekleri.exe.config
+C:\Users\I-Life\source\repos\KonsoldanVeriAlmaOrnekleri\KonsoldanVeriAlmaOrnekleri\bin\Debug\KonsoldanVeriAlmaOrnekleri.exe
+C:\Users\I-Life\source\repos\KonsoldanVeriAlmaOrnekleri\KonsoldanVeriAlmaOrnekleri\bin\Debug\KonsoldanVeriAlmaOrnekleri.pdb
+C:\Users\I-Life\source\repos\KonsoldanVeriAlmaOrnekleri\KonsoldanVeriAlmaOrnekleri\obj\Debug\KonsoldanVeriAlmaOrnekleri.csproj.AssemblyReference.cache
+C:\Users\I-Life\source\repos\KonsoldanVeriAlmaOrnekleri\KonsoldanVeriAlmaOrnekleri\obj\Debug\KonsoldanVeriAlmaOrnekleri.csproj.CoreCompileInputs.cache
+C:\Users\I-Life\source\repos\KonsoldanVeriAlmaOrnekleri\KonsoldanVeriAlmaOrnekleri\obj\Debug\KonsoldanVeriAlmaOrnekleri.exe
+C:\Users\I-Life\source\repos\KonsoldanVeriAlmaOrnekleri\KonsoldanVeriAlmaOrnekleri\obj\Debug\KonsoldanVeriAlmaOrnekleri.pdb

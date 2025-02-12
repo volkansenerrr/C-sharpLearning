@@ -1,0 +1,7 @@
+C:\Users\I-Life\source\repos\DiziElemanEkleme\DiziElemanEkleme\bin\Debug\DiziElemanEkleme.exe.config
+C:\Users\I-Life\source\repos\DiziElemanEkleme\DiziElemanEkleme\bin\Debug\DiziElemanEkleme.exe
+C:\Users\I-Life\source\repos\DiziElemanEkleme\DiziElemanEkleme\bin\Debug\DiziElemanEkleme.pdb
+C:\Users\I-Life\source\repos\DiziElemanEkleme\DiziElemanEkleme\obj\Debug\DiziElemanEkleme.csproj.AssemblyReference.cache
+C:\Users\I-Life\source\repos\DiziElemanEkleme\DiziElemanEkleme\obj\Debug\DiziElemanEkleme.csproj.CoreCompileInputs.cache
+C:\Users\I-Life\source\repos\DiziElemanEkleme\DiziElemanEkleme\obj\Debug\DiziElemanEkleme.exe
+C:\Users\I-Life\source\repos\DiziElemanEkleme\DiziElemanEkleme\obj\Debug\DiziElemanEkleme.pdb

@@ -1,0 +1,7 @@
+C:\Users\Alp\source\repos\MurtazaSupermarket\MurtazaSupermarket\bin\Debug\MurtazaSupermarket.exe.config
+C:\Users\Alp\source\repos\MurtazaSupermarket\MurtazaSupermarket\bin\Debug\MurtazaSupermarket.exe
+C:\Users\Alp\source\repos\MurtazaSupermarket\MurtazaSupermarket\bin\Debug\MurtazaSupermarket.pdb
+C:\Users\Alp\source\repos\MurtazaSupermarket\MurtazaSupermarket\obj\Debug\MurtazaSupermarket.csproj.AssemblyReference.cache
+C:\Users\Alp\source\repos\MurtazaSupermarket\MurtazaSupermarket\obj\Debug\MurtazaSupermarket.csproj.CoreCompileInputs.cache
+C:\Users\Alp\source\repos\MurtazaSupermarket\MurtazaSupermarket\obj\Debug\MurtazaSupermarket.exe
+C:\Users\Alp\source\repos\MurtazaSupermarket\MurtazaSupermarket\obj\Debug\MurtazaSupermarket.pdb

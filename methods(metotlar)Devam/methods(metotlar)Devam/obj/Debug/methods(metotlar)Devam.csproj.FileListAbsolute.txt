@@ -1,0 +1,7 @@
+C:\Users\I-Life\source\repos\methods(metotlar)Devam\methods(metotlar)Devam\bin\Debug\methods(metotlar)Devam.exe.config
+C:\Users\I-Life\source\repos\methods(metotlar)Devam\methods(metotlar)Devam\bin\Debug\methods(metotlar)Devam.exe
+C:\Users\I-Life\source\repos\methods(metotlar)Devam\methods(metotlar)Devam\bin\Debug\methods(metotlar)Devam.pdb
+C:\Users\I-Life\source\repos\methods(metotlar)Devam\methods(metotlar)Devam\obj\Debug\methods(metotlar)Devam.csproj.AssemblyReference.cache
+C:\Users\I-Life\source\repos\methods(metotlar)Devam\methods(metotlar)Devam\obj\Debug\methods(metotlar)Devam.csproj.CoreCompileInputs.cache
+C:\Users\I-Life\source\repos\methods(metotlar)Devam\methods(metotlar)Devam\obj\Debug\methods(metotlar)Devam.exe
+C:\Users\I-Life\source\repos\methods(metotlar)Devam\methods(metotlar)Devam\obj\Debug\methods(metotlar)Devam.pdb

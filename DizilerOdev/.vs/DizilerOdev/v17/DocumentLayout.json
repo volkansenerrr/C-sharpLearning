@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\I-Life\\source\\repos\\DizilerOdev\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{023DE268-D376-44E3-9B9E-1A94CC85129F}|DizilerOdev\\DizilerOdev.csproj|c:\\users\\i-life\\source\\repos\\dizilerodev\\dizilerodev\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{023DE268-D376-44E3-9B9E-1A94CC85129F}|DizilerOdev\\DizilerOdev.csproj|solutionrelative:dizilerodev\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\I-Life\\source\\repos\\DizilerOdev\\DizilerOdev\\Program.cs",
+              "RelativeDocumentMoniker": "DizilerOdev\\Program.cs",
+              "ToolTip": "C:\\Users\\I-Life\\source\\repos\\DizilerOdev\\DizilerOdev\\Program.cs",
+              "RelativeToolTip": "DizilerOdev\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwBMAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T04:41:48.856Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

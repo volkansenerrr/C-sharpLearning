@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\I-Life\\source\\repos\\ArrayListOgrenciKayit\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D1EE8D6-70DB-4701-B622-B7B926117088}|ArrayListOgrenciKayit\\ArrayListOgrenciKayit.csproj|c:\\users\\i-life\\source\\repos\\arraylistogrencikayit\\arraylistogrencikayit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D1EE8D6-70DB-4701-B622-B7B926117088}|ArrayListOgrenciKayit\\ArrayListOgrenciKayit.csproj|solutionrelative:arraylistogrencikayit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\I-Life\\source\\repos\\ArrayListOgrenciKayit\\ArrayListOgrenciKayit\\Program.cs",
+              "RelativeDocumentMoniker": "ArrayListOgrenciKayit\\Program.cs",
+              "ToolTip": "C:\\Users\\I-Life\\source\\repos\\ArrayListOgrenciKayit\\ArrayListOgrenciKayit\\Program.cs",
+              "RelativeToolTip": "ArrayListOgrenciKayit\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T15:03:57.23Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

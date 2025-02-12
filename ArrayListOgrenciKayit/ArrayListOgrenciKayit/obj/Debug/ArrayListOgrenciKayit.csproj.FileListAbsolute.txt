@@ -1,0 +1,7 @@
+C:\Users\I-Life\source\repos\ArrayListOgrenciKayit\ArrayListOgrenciKayit\obj\Debug\ArrayListOgrenciKayit.csproj.AssemblyReference.cache
+C:\Users\I-Life\source\repos\ArrayListOgrenciKayit\ArrayListOgrenciKayit\obj\Debug\ArrayListOgrenciKayit.csproj.CoreCompileInputs.cache
+C:\Users\I-Life\source\repos\ArrayListOgrenciKayit\ArrayListOgrenciKayit\bin\Debug\ArrayListOgrenciKayit.exe.config
+C:\Users\I-Life\source\repos\ArrayListOgrenciKayit\ArrayListOgrenciKayit\bin\Debug\ArrayListOgrenciKayit.exe
+C:\Users\I-Life\source\repos\ArrayListOgrenciKayit\ArrayListOgrenciKayit\bin\Debug\ArrayListOgrenciKayit.pdb
+C:\Users\I-Life\source\repos\ArrayListOgrenciKayit\ArrayListOgrenciKayit\obj\Debug\ArrayListOgrenciKayit.exe
+C:\Users\I-Life\source\repos\ArrayListOgrenciKayit\ArrayListOgrenciKayit\obj\Debug\ArrayListOgrenciKayit.pdb

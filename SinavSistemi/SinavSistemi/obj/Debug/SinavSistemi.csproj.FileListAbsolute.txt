@@ -1,0 +1,7 @@
+C:\Users\Alp\source\repos\SinavSistemi\SinavSistemi\bin\Debug\SinavSistemi.exe.config
+C:\Users\Alp\source\repos\SinavSistemi\SinavSistemi\bin\Debug\SinavSistemi.exe
+C:\Users\Alp\source\repos\SinavSistemi\SinavSistemi\bin\Debug\SinavSistemi.pdb
+C:\Users\Alp\source\repos\SinavSistemi\SinavSistemi\obj\Debug\SinavSistemi.csproj.AssemblyReference.cache
+C:\Users\Alp\source\repos\SinavSistemi\SinavSistemi\obj\Debug\SinavSistemi.csproj.CoreCompileInputs.cache
+C:\Users\Alp\source\repos\SinavSistemi\SinavSistemi\obj\Debug\SinavSistemi.exe
+C:\Users\Alp\source\repos\SinavSistemi\SinavSistemi\obj\Debug\SinavSistemi.pdb

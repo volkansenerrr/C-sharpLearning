@@ -1,0 +1,15 @@
+C:\Users\doga\Desktop\C#\IngilizceKelimeTesti\IngilizceKelimeTesti\bin\Debug\IngilizceKelimeTesti.exe.config
+C:\Users\doga\Desktop\C#\IngilizceKelimeTesti\IngilizceKelimeTesti\bin\Debug\IngilizceKelimeTesti.exe
+C:\Users\doga\Desktop\C#\IngilizceKelimeTesti\IngilizceKelimeTesti\bin\Debug\IngilizceKelimeTesti.pdb
+C:\Users\doga\Desktop\C#\IngilizceKelimeTesti\IngilizceKelimeTesti\obj\Debug\IngilizceKelimeTesti.csproj.AssemblyReference.cache
+C:\Users\doga\Desktop\C#\IngilizceKelimeTesti\IngilizceKelimeTesti\obj\Debug\IngilizceKelimeTesti.csproj.SuggestedBindingRedirects.cache
+C:\Users\doga\Desktop\C#\IngilizceKelimeTesti\IngilizceKelimeTesti\obj\Debug\IngilizceKelimeTesti.csproj.CoreCompileInputs.cache
+C:\Users\doga\Desktop\C#\IngilizceKelimeTesti\IngilizceKelimeTesti\obj\Debug\IngilizceKelimeTesti.exe
+C:\Users\doga\Desktop\C#\IngilizceKelimeTesti\IngilizceKelimeTesti\obj\Debug\IngilizceKelimeTesti.pdb
+C:\Users\I-Life\source\repos\IngilizceKelimeTesti\IngilizceKelimeTesti\bin\Debug\IngilizceKelimeTesti.exe.config
+C:\Users\I-Life\source\repos\IngilizceKelimeTesti\IngilizceKelimeTesti\bin\Debug\IngilizceKelimeTesti.exe
+C:\Users\I-Life\source\repos\IngilizceKelimeTesti\IngilizceKelimeTesti\bin\Debug\IngilizceKelimeTesti.pdb
+C:\Users\I-Life\source\repos\IngilizceKelimeTesti\IngilizceKelimeTesti\obj\Debug\IngilizceKelimeTesti.csproj.AssemblyReference.cache
+C:\Users\I-Life\source\repos\IngilizceKelimeTesti\IngilizceKelimeTesti\obj\Debug\IngilizceKelimeTesti.csproj.CoreCompileInputs.cache
+C:\Users\I-Life\source\repos\IngilizceKelimeTesti\IngilizceKelimeTesti\obj\Debug\IngilizceKelimeTesti.exe
+C:\Users\I-Life\source\repos\IngilizceKelimeTesti\IngilizceKelimeTesti\obj\Debug\IngilizceKelimeTesti.pdb

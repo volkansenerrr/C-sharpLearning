@@ -1,0 +1,10 @@
+C:\Users\I-Life\source\repos\EntityModel\EntityModel\bin\Debug\EntityModel.exe.config
+C:\Users\I-Life\source\repos\EntityModel\EntityModel\bin\Debug\EntityModel.exe
+C:\Users\I-Life\source\repos\EntityModel\EntityModel\bin\Debug\EntityModel.pdb
+C:\Users\I-Life\source\repos\EntityModel\EntityModel\obj\Debug\EntityModel.csproj.AssemblyReference.cache
+C:\Users\I-Life\source\repos\EntityModel\EntityModel\obj\Debug\EntityModel.csproj.CoreCompileInputs.cache
+C:\Users\I-Life\source\repos\EntityModel\EntityModel\obj\Debug\EntityModel.exe
+C:\Users\I-Life\source\repos\EntityModel\EntityModel\obj\Debug\EntityModel.pdb
+C:\Users\I-Life\source\repos\EntityModel\EntityModel\bin\Debug\VeriErisimKatmani.dll
+C:\Users\I-Life\source\repos\EntityModel\EntityModel\bin\Debug\VeriErisimKatmani.pdb
+C:\Users\I-Life\source\repos\EntityModel\EntityModel\obj\Debug\EntityMo.CD53FDE0.Up2Date

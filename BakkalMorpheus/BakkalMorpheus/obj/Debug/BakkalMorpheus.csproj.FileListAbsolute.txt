@@ -1,0 +1,7 @@
+C:\Users\I-Life\source\repos\BakkalMorpheus\BakkalMorpheus\bin\Debug\BakkalMorpheus.exe.config
+C:\Users\I-Life\source\repos\BakkalMorpheus\BakkalMorpheus\bin\Debug\BakkalMorpheus.exe
+C:\Users\I-Life\source\repos\BakkalMorpheus\BakkalMorpheus\bin\Debug\BakkalMorpheus.pdb
+C:\Users\I-Life\source\repos\BakkalMorpheus\BakkalMorpheus\obj\Debug\BakkalMorpheus.csproj.AssemblyReference.cache
+C:\Users\I-Life\source\repos\BakkalMorpheus\BakkalMorpheus\obj\Debug\BakkalMorpheus.csproj.CoreCompileInputs.cache
+C:\Users\I-Life\source\repos\BakkalMorpheus\BakkalMorpheus\obj\Debug\BakkalMorpheus.exe
+C:\Users\I-Life\source\repos\BakkalMorpheus\BakkalMorpheus\obj\Debug\BakkalMorpheus.pdb

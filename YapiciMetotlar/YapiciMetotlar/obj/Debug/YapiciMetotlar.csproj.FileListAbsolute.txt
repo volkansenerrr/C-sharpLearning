@@ -1,0 +1,7 @@
+C:\Users\I-Life\source\repos\YapiciMetotlar\YapiciMetotlar\bin\Debug\YapiciMetotlar.exe.config
+C:\Users\I-Life\source\repos\YapiciMetotlar\YapiciMetotlar\bin\Debug\YapiciMetotlar.exe
+C:\Users\I-Life\source\repos\YapiciMetotlar\YapiciMetotlar\bin\Debug\YapiciMetotlar.pdb
+C:\Users\I-Life\source\repos\YapiciMetotlar\YapiciMetotlar\obj\Debug\YapiciMetotlar.csproj.AssemblyReference.cache
+C:\Users\I-Life\source\repos\YapiciMetotlar\YapiciMetotlar\obj\Debug\YapiciMetotlar.csproj.CoreCompileInputs.cache
+C:\Users\I-Life\source\repos\YapiciMetotlar\YapiciMetotlar\obj\Debug\YapiciMetotlar.exe
+C:\Users\I-Life\source\repos\YapiciMetotlar\YapiciMetotlar\obj\Debug\YapiciMetotlar.pdb

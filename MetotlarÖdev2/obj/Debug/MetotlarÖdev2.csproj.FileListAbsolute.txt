@@ -1,0 +1,7 @@
+C:\Users\ramse\Desktop\C# Ödevler\MetotlarÖdev2\bin\Debug\MetotlarÖdev2.exe.config
+C:\Users\ramse\Desktop\C# Ödevler\MetotlarÖdev2\bin\Debug\MetotlarÖdev2.exe
+C:\Users\ramse\Desktop\C# Ödevler\MetotlarÖdev2\bin\Debug\MetotlarÖdev2.pdb
+C:\Users\ramse\Desktop\C# Ödevler\MetotlarÖdev2\obj\Debug\MetotlarÖdev2.csproj.AssemblyReference.cache
+C:\Users\ramse\Desktop\C# Ödevler\MetotlarÖdev2\obj\Debug\MetotlarÖdev2.csproj.CoreCompileInputs.cache
+C:\Users\ramse\Desktop\C# Ödevler\MetotlarÖdev2\obj\Debug\MetotlarÖdev2.exe
+C:\Users\ramse\Desktop\C# Ödevler\MetotlarÖdev2\obj\Debug\MetotlarÖdev2.pdb

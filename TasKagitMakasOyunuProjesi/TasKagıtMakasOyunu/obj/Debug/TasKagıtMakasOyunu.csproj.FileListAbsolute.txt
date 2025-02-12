@@ -1,0 +1,14 @@
+C:\Users\I-Life\source\repos\TasKagıtMakasOyunu\TasKagıtMakasOyunu\bin\Debug\TasKagıtMakasOyunu.exe.config
+C:\Users\I-Life\source\repos\TasKagıtMakasOyunu\TasKagıtMakasOyunu\bin\Debug\TasKagıtMakasOyunu.exe
+C:\Users\I-Life\source\repos\TasKagıtMakasOyunu\TasKagıtMakasOyunu\bin\Debug\TasKagıtMakasOyunu.pdb
+C:\Users\I-Life\source\repos\TasKagıtMakasOyunu\TasKagıtMakasOyunu\obj\Debug\TasKagıtMakasOyunu.csproj.AssemblyReference.cache
+C:\Users\I-Life\source\repos\TasKagıtMakasOyunu\TasKagıtMakasOyunu\obj\Debug\TasKagıtMakasOyunu.csproj.CoreCompileInputs.cache
+C:\Users\I-Life\source\repos\TasKagıtMakasOyunu\TasKagıtMakasOyunu\obj\Debug\TasKagıtMakasOyunu.exe
+C:\Users\I-Life\source\repos\TasKagıtMakasOyunu\TasKagıtMakasOyunu\obj\Debug\TasKagıtMakasOyunu.pdb
+C:\Users\I-Life\source\repos\TasKagitMakasOyunuProjesi\TasKagıtMakasOyunu\bin\Debug\TasKagıtMakasOyunu.exe.config
+C:\Users\I-Life\source\repos\TasKagitMakasOyunuProjesi\TasKagıtMakasOyunu\bin\Debug\TasKagıtMakasOyunu.exe
+C:\Users\I-Life\source\repos\TasKagitMakasOyunuProjesi\TasKagıtMakasOyunu\bin\Debug\TasKagıtMakasOyunu.pdb
+C:\Users\I-Life\source\repos\TasKagitMakasOyunuProjesi\TasKagıtMakasOyunu\obj\Debug\TasKagıtMakasOyunu.csproj.AssemblyReference.cache
+C:\Users\I-Life\source\repos\TasKagitMakasOyunuProjesi\TasKagıtMakasOyunu\obj\Debug\TasKagıtMakasOyunu.csproj.CoreCompileInputs.cache
+C:\Users\I-Life\source\repos\TasKagitMakasOyunuProjesi\TasKagıtMakasOyunu\obj\Debug\TasKagıtMakasOyunu.exe
+C:\Users\I-Life\source\repos\TasKagitMakasOyunuProjesi\TasKagıtMakasOyunu\obj\Debug\TasKagıtMakasOyunu.pdb

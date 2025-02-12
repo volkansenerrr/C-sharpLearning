@@ -1,0 +1,10 @@
+C:\Users\I-Life\source\repos\MerhabaWinForms\MerhabaWinForms\bin\Debug\MerhabaWinForms.exe.config
+C:\Users\I-Life\source\repos\MerhabaWinForms\MerhabaWinForms\bin\Debug\MerhabaWinForms.exe
+C:\Users\I-Life\source\repos\MerhabaWinForms\MerhabaWinForms\bin\Debug\MerhabaWinForms.pdb
+C:\Users\I-Life\source\repos\MerhabaWinForms\MerhabaWinForms\obj\Debug\MerhabaWinForms.csproj.AssemblyReference.cache
+C:\Users\I-Life\source\repos\MerhabaWinForms\MerhabaWinForms\obj\Debug\MerhabaWinForms.Properties.Resources.resources
+C:\Users\I-Life\source\repos\MerhabaWinForms\MerhabaWinForms\obj\Debug\MerhabaWinForms.csproj.GenerateResource.cache
+C:\Users\I-Life\source\repos\MerhabaWinForms\MerhabaWinForms\obj\Debug\MerhabaWinForms.csproj.CoreCompileInputs.cache
+C:\Users\I-Life\source\repos\MerhabaWinForms\MerhabaWinForms\obj\Debug\MerhabaWinForms.exe
+C:\Users\I-Life\source\repos\MerhabaWinForms\MerhabaWinForms\obj\Debug\MerhabaWinForms.pdb
+C:\Users\I-Life\source\repos\MerhabaWinForms\MerhabaWinForms\obj\Debug\MerhabaWinForms.Form1.resources

@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\I-Life\\source\\repos\\Bazaar\\Bazaar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1EC9FB-4DA5-4431-AA63-A12309101E81}|Bazaar\\Bazaar.csproj|c:\\users\\i-life\\source\\repos\\bazaar\\bazaar\\bazaar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE1EC9FB-4DA5-4431-AA63-A12309101E81}|Bazaar\\Bazaar.csproj|solutionrelative:bazaar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1EC9FB-4DA5-4431-AA63-A12309101E81}|Bazaar\\Bazaar.csproj|C:\\Users\\I-Life\\source\\repos\\Bazaar\\Bazaar\\bazaar\\fis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE1EC9FB-4DA5-4431-AA63-A12309101E81}|Bazaar\\Bazaar.csproj|solutionrelative:bazaar\\fis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1EC9FB-4DA5-4431-AA63-A12309101E81}|Bazaar\\Bazaar.csproj|C:\\Users\\I-Life\\source\\repos\\Bazaar\\Bazaar\\bazaar\\urun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE1EC9FB-4DA5-4431-AA63-A12309101E81}|Bazaar\\Bazaar.csproj|solutionrelative:bazaar\\urun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Fis.cs",
+              "DocumentMoniker": "C:\\Users\\I-Life\\source\\repos\\Bazaar\\Bazaar\\Bazaar\\Fis.cs",
+              "RelativeDocumentMoniker": "Bazaar\\Fis.cs",
+              "ToolTip": "C:\\Users\\I-Life\\source\\repos\\Bazaar\\Bazaar\\Bazaar\\Fis.cs",
+              "RelativeToolTip": "Bazaar\\Fis.cs",
+              "ViewState": "AQIAAK8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T12:39:53.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Urun.cs",
+              "DocumentMoniker": "C:\\Users\\I-Life\\source\\repos\\Bazaar\\Bazaar\\Bazaar\\Urun.cs",
+              "RelativeDocumentMoniker": "Bazaar\\Urun.cs",
+              "ToolTip": "C:\\Users\\I-Life\\source\\repos\\Bazaar\\Bazaar\\Bazaar\\Urun.cs",
+              "RelativeToolTip": "Bazaar\\Urun.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T12:39:45.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\I-Life\\source\\repos\\Bazaar\\Bazaar\\Bazaar\\Program.cs",
+              "RelativeDocumentMoniker": "Bazaar\\Program.cs",
+              "ToolTip": "C:\\Users\\I-Life\\source\\repos\\Bazaar\\Bazaar\\Bazaar\\Program.cs",
+              "RelativeToolTip": "Bazaar\\Program.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAQwCkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T12:36:20.589Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\I-Life\source\repos\OrnekProje\OrnekProje\bin\Debug\OrnekProje.exe.config
+C:\Users\I-Life\source\repos\OrnekProje\OrnekProje\bin\Debug\OrnekProje.exe
+C:\Users\I-Life\source\repos\OrnekProje\OrnekProje\bin\Debug\OrnekProje.pdb
+C:\Users\I-Life\source\repos\OrnekProje\OrnekProje\obj\Debug\OrnekProje.csproj.AssemblyReference.cache
+C:\Users\I-Life\source\repos\OrnekProje\OrnekProje\obj\Debug\OrnekProje.csproj.CoreCompileInputs.cache
+C:\Users\I-Life\source\repos\OrnekProje\OrnekProje\obj\Debug\OrnekProje.exe
+C:\Users\I-Life\source\repos\OrnekProje\OrnekProje\obj\Debug\OrnekProje.pdb

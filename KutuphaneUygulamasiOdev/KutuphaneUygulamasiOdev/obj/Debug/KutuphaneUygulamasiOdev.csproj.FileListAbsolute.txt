@@ -1,0 +1,7 @@
+C:\Users\I-Life\source\repos\KutuphaneUygulamasiOdev\KutuphaneUygulamasiOdev\bin\Debug\KutuphaneUygulamasiOdev.exe.config
+C:\Users\I-Life\source\repos\KutuphaneUygulamasiOdev\KutuphaneUygulamasiOdev\bin\Debug\KutuphaneUygulamasiOdev.exe
+C:\Users\I-Life\source\repos\KutuphaneUygulamasiOdev\KutuphaneUygulamasiOdev\bin\Debug\KutuphaneUygulamasiOdev.pdb
+C:\Users\I-Life\source\repos\KutuphaneUygulamasiOdev\KutuphaneUygulamasiOdev\obj\Debug\KutuphaneUygulamasiOdev.csproj.AssemblyReference.cache
+C:\Users\I-Life\source\repos\KutuphaneUygulamasiOdev\KutuphaneUygulamasiOdev\obj\Debug\KutuphaneUygulamasiOdev.csproj.CoreCompileInputs.cache
+C:\Users\I-Life\source\repos\KutuphaneUygulamasiOdev\KutuphaneUygulamasiOdev\obj\Debug\KutuphaneUygulamasiOdev.exe
+C:\Users\I-Life\source\repos\KutuphaneUygulamasiOdev\KutuphaneUygulamasiOdev\obj\Debug\KutuphaneUygulamasiOdev.pdb

@@ -1,0 +1,7 @@
+C:\Users\I-Life\source\repos\GenericKavrami\GenericKavrami\bin\Debug\GenericKavrami.exe.config
+C:\Users\I-Life\source\repos\GenericKavrami\GenericKavrami\bin\Debug\GenericKavrami.exe
+C:\Users\I-Life\source\repos\GenericKavrami\GenericKavrami\bin\Debug\GenericKavrami.pdb
+C:\Users\I-Life\source\repos\GenericKavrami\GenericKavrami\obj\Debug\GenericKavrami.csproj.AssemblyReference.cache
+C:\Users\I-Life\source\repos\GenericKavrami\GenericKavrami\obj\Debug\GenericKavrami.csproj.CoreCompileInputs.cache
+C:\Users\I-Life\source\repos\GenericKavrami\GenericKavrami\obj\Debug\GenericKavrami.exe
+C:\Users\I-Life\source\repos\GenericKavrami\GenericKavrami\obj\Debug\GenericKavrami.pdb

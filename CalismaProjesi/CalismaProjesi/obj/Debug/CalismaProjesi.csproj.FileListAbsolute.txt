@@ -1,0 +1,7 @@
+C:\Users\I-Life\source\repos\CalismaProjesi\CalismaProjesi\bin\Debug\CalismaProjesi.exe.config
+C:\Users\I-Life\source\repos\CalismaProjesi\CalismaProjesi\bin\Debug\CalismaProjesi.exe
+C:\Users\I-Life\source\repos\CalismaProjesi\CalismaProjesi\bin\Debug\CalismaProjesi.pdb
+C:\Users\I-Life\source\repos\CalismaProjesi\CalismaProjesi\obj\Debug\CalismaProjesi.csproj.AssemblyReference.cache
+C:\Users\I-Life\source\repos\CalismaProjesi\CalismaProjesi\obj\Debug\CalismaProjesi.csproj.CoreCompileInputs.cache
+C:\Users\I-Life\source\repos\CalismaProjesi\CalismaProjesi\obj\Debug\CalismaProjesi.exe
+C:\Users\I-Life\source\repos\CalismaProjesi\CalismaProjesi\obj\Debug\CalismaProjesi.pdb

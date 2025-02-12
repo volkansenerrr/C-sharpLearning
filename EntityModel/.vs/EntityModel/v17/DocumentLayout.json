@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\I-Life\\source\\repos\\EntityModel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{214C5113-2829-4DC5-BD7F-4B538CE3F7F6}|EntityModel\\EntityModel.csproj|C:\\Users\\I-Life\\source\\repos\\EntityModel\\entitymodel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{214C5113-2829-4DC5-BD7F-4B538CE3F7F6}|EntityModel\\EntityModel.csproj|solutionrelative:entitymodel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D58072E6-C594-440B-8B7E-F826FFDE1AAA}|VeriErisimKatmani\\VeriErisimKatmani.csproj|C:\\Users\\I-Life\\source\\repos\\EntityModel\\verierisimkatmani\\verimodeli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D58072E6-C594-440B-8B7E-F826FFDE1AAA}|VeriErisimKatmani\\VeriErisimKatmani.csproj|solutionrelative:verierisimkatmani\\verimodeli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D58072E6-C594-440B-8B7E-F826FFDE1AAA}|VeriErisimKatmani\\VeriErisimKatmani.csproj|c:\\users\\i-life\\source\\repos\\entitymodel\\verierisimkatmani\\kategori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D58072E6-C594-440B-8B7E-F826FFDE1AAA}|VeriErisimKatmani\\VeriErisimKatmani.csproj|solutionrelative:verierisimkatmani\\kategori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D58072E6-C594-440B-8B7E-F826FFDE1AAA}|VeriErisimKatmani\\VeriErisimKatmani.csproj|C:\\Users\\I-Life\\source\\repos\\EntityModel\\verierisimkatmani\\baglantiyollari.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D58072E6-C594-440B-8B7E-F826FFDE1AAA}|VeriErisimKatmani\\VeriErisimKatmani.csproj|solutionrelative:verierisimkatmani\\baglantiyollari.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Kategori.cs",
+              "DocumentMoniker": "C:\\Users\\I-Life\\source\\repos\\EntityModel\\VeriErisimKatmani\\Kategori.cs",
+              "RelativeDocumentMoniker": "VeriErisimKatmani\\Kategori.cs",
+              "ToolTip": "C:\\Users\\I-Life\\source\\repos\\EntityModel\\VeriErisimKatmani\\Kategori.cs",
+              "RelativeToolTip": "VeriErisimKatmani\\Kategori.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T14:07:18.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VeriModeli.cs",
+              "DocumentMoniker": "C:\\Users\\I-Life\\source\\repos\\EntityModel\\VeriErisimKatmani\\VeriModeli.cs",
+              "RelativeDocumentMoniker": "VeriErisimKatmani\\VeriModeli.cs",
+              "ToolTip": "C:\\Users\\I-Life\\source\\repos\\EntityModel\\VeriErisimKatmani\\VeriModeli.cs",
+              "RelativeToolTip": "VeriErisimKatmani\\VeriModeli.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAlwHoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T13:31:45.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BaglantiYollari.cs",
+              "DocumentMoniker": "C:\\Users\\I-Life\\source\\repos\\EntityModel\\VeriErisimKatmani\\BaglantiYollari.cs",
+              "RelativeDocumentMoniker": "VeriErisimKatmani\\BaglantiYollari.cs",
+              "ToolTip": "C:\\Users\\I-Life\\source\\repos\\EntityModel\\VeriErisimKatmani\\BaglantiYollari.cs",
+              "RelativeToolTip": "VeriErisimKatmani\\BaglantiYollari.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAACBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T13:24:43.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\I-Life\\source\\repos\\EntityModel\\EntityModel\\Program.cs",
+              "RelativeDocumentMoniker": "EntityModel\\Program.cs",
+              "ToolTip": "C:\\Users\\I-Life\\source\\repos\\EntityModel\\EntityModel\\Program.cs",
+              "RelativeToolTip": "EntityModel\\Program.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAQwG8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T13:12:20.283Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

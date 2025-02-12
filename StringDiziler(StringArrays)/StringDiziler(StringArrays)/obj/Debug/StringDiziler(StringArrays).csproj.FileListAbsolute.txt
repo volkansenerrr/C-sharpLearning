@@ -1,0 +1,7 @@
+C:\Users\I-Life\source\repos\StringDiziler(StringArrays)\StringDiziler(StringArrays)\bin\Debug\StringDiziler(StringArrays).exe.config
+C:\Users\I-Life\source\repos\StringDiziler(StringArrays)\StringDiziler(StringArrays)\bin\Debug\StringDiziler(StringArrays).exe
+C:\Users\I-Life\source\repos\StringDiziler(StringArrays)\StringDiziler(StringArrays)\bin\Debug\StringDiziler(StringArrays).pdb
+C:\Users\I-Life\source\repos\StringDiziler(StringArrays)\StringDiziler(StringArrays)\obj\Debug\StringDiziler(StringArrays).csproj.AssemblyReference.cache
+C:\Users\I-Life\source\repos\StringDiziler(StringArrays)\StringDiziler(StringArrays)\obj\Debug\StringDiziler(StringArrays).csproj.CoreCompileInputs.cache
+C:\Users\I-Life\source\repos\StringDiziler(StringArrays)\StringDiziler(StringArrays)\obj\Debug\StringDiziler(StringArrays).exe
+C:\Users\I-Life\source\repos\StringDiziler(StringArrays)\StringDiziler(StringArrays)\obj\Debug\StringDiziler(StringArrays).pdb

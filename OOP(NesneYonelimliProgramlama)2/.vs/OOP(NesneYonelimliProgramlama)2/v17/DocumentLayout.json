@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\I-Life\\source\\repos\\OOP(NesneYonelimliProgramlama)2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9402613D-F4B6-41D1-9831-F675D7B73FE2}|OOP(NesneYonelimliProgramlama)2\\OOP(NesneYonelimliProgramlama)2.csproj|c:\\users\\i-life\\source\\repos\\oop(nesneyonelimliprogramlama)2\\oop(nesneyonelimliprogramlama)2\\araba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9402613D-F4B6-41D1-9831-F675D7B73FE2}|OOP(NesneYonelimliProgramlama)2\\OOP(NesneYonelimliProgramlama)2.csproj|solutionrelative:oop(nesneyonelimliprogramlama)2\\araba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9402613D-F4B6-41D1-9831-F675D7B73FE2}|OOP(NesneYonelimliProgramlama)2\\OOP(NesneYonelimliProgramlama)2.csproj|C:\\Users\\I-Life\\source\\repos\\OOP(NesneYonelimliProgramlama)2\\oop(nesneyonelimliprogramlama)2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9402613D-F4B6-41D1-9831-F675D7B73FE2}|OOP(NesneYonelimliProgramlama)2\\OOP(NesneYonelimliProgramlama)2.csproj|solutionrelative:oop(nesneyonelimliprogramlama)2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Araba.cs",
+              "DocumentMoniker": "C:\\Users\\I-Life\\source\\repos\\OOP(NesneYonelimliProgramlama)2\\OOP(NesneYonelimliProgramlama)2\\Araba.cs",
+              "RelativeDocumentMoniker": "OOP(NesneYonelimliProgramlama)2\\Araba.cs",
+              "ToolTip": "C:\\Users\\I-Life\\source\\repos\\OOP(NesneYonelimliProgramlama)2\\OOP(NesneYonelimliProgramlama)2\\Araba.cs",
+              "RelativeToolTip": "OOP(NesneYonelimliProgramlama)2\\Araba.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T22:12:56.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\I-Life\\source\\repos\\OOP(NesneYonelimliProgramlama)2\\OOP(NesneYonelimliProgramlama)2\\Program.cs",
+              "RelativeDocumentMoniker": "OOP(NesneYonelimliProgramlama)2\\Program.cs",
+              "ToolTip": "C:\\Users\\I-Life\\source\\repos\\OOP(NesneYonelimliProgramlama)2\\OOP(NesneYonelimliProgramlama)2\\Program.cs",
+              "RelativeToolTip": "OOP(NesneYonelimliProgramlama)2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAACQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T21:53:26.388Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

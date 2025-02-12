@@ -1,0 +1,7 @@
+C:\Users\I-Life\source\repos\methods(metotlar)\methods(metotlar)\bin\Debug\methods(metotlar).exe.config
+C:\Users\I-Life\source\repos\methods(metotlar)\methods(metotlar)\bin\Debug\methods(metotlar).exe
+C:\Users\I-Life\source\repos\methods(metotlar)\methods(metotlar)\bin\Debug\methods(metotlar).pdb
+C:\Users\I-Life\source\repos\methods(metotlar)\methods(metotlar)\obj\Debug\methods(metotlar).csproj.AssemblyReference.cache
+C:\Users\I-Life\source\repos\methods(metotlar)\methods(metotlar)\obj\Debug\methods(metotlar).csproj.CoreCompileInputs.cache
+C:\Users\I-Life\source\repos\methods(metotlar)\methods(metotlar)\obj\Debug\methods(metotlar).exe
+C:\Users\I-Life\source\repos\methods(metotlar)\methods(metotlar)\obj\Debug\methods(metotlar).pdb

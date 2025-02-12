@@ -1,0 +1,7 @@
+C:\Users\I-Life\source\repos\OOPoDev2\OOPoDev2\bin\Debug\OOPoDev2.exe.config
+C:\Users\I-Life\source\repos\OOPoDev2\OOPoDev2\bin\Debug\OOPoDev2.exe
+C:\Users\I-Life\source\repos\OOPoDev2\OOPoDev2\bin\Debug\OOPoDev2.pdb
+C:\Users\I-Life\source\repos\OOPoDev2\OOPoDev2\obj\Debug\OOPoDev2.csproj.AssemblyReference.cache
+C:\Users\I-Life\source\repos\OOPoDev2\OOPoDev2\obj\Debug\OOPoDev2.csproj.CoreCompileInputs.cache
+C:\Users\I-Life\source\repos\OOPoDev2\OOPoDev2\obj\Debug\OOPoDev2.exe
+C:\Users\I-Life\source\repos\OOPoDev2\OOPoDev2\obj\Debug\OOPoDev2.pdb

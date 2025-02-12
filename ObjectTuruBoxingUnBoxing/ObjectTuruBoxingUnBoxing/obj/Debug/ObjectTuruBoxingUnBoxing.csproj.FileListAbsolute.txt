@@ -1,0 +1,7 @@
+C:\Users\I-Life\source\repos\ObjectTuruBoxingUnBoxing\ObjectTuruBoxingUnBoxing\bin\Debug\ObjectTuruBoxingUnBoxing.exe.config
+C:\Users\I-Life\source\repos\ObjectTuruBoxingUnBoxing\ObjectTuruBoxingUnBoxing\bin\Debug\ObjectTuruBoxingUnBoxing.exe
+C:\Users\I-Life\source\repos\ObjectTuruBoxingUnBoxing\ObjectTuruBoxingUnBoxing\bin\Debug\ObjectTuruBoxingUnBoxing.pdb
+C:\Users\I-Life\source\repos\ObjectTuruBoxingUnBoxing\ObjectTuruBoxingUnBoxing\obj\Debug\ObjectTuruBoxingUnBoxing.csproj.AssemblyReference.cache
+C:\Users\I-Life\source\repos\ObjectTuruBoxingUnBoxing\ObjectTuruBoxingUnBoxing\obj\Debug\ObjectTuruBoxingUnBoxing.csproj.CoreCompileInputs.cache
+C:\Users\I-Life\source\repos\ObjectTuruBoxingUnBoxing\ObjectTuruBoxingUnBoxing\obj\Debug\ObjectTuruBoxingUnBoxing.exe
+C:\Users\I-Life\source\repos\ObjectTuruBoxingUnBoxing\ObjectTuruBoxingUnBoxing\obj\Debug\ObjectTuruBoxingUnBoxing.pdb

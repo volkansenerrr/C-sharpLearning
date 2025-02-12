@@ -1,0 +1,7 @@
+C:\Users\I-Life\source\repos\SQLOdev\SQLOdev\bin\Debug\SQLOdev.exe.config
+C:\Users\I-Life\source\repos\SQLOdev\SQLOdev\bin\Debug\SQLOdev.exe
+C:\Users\I-Life\source\repos\SQLOdev\SQLOdev\bin\Debug\SQLOdev.pdb
+C:\Users\I-Life\source\repos\SQLOdev\SQLOdev\obj\Debug\SQLOdev.csproj.AssemblyReference.cache
+C:\Users\I-Life\source\repos\SQLOdev\SQLOdev\obj\Debug\SQLOdev.csproj.CoreCompileInputs.cache
+C:\Users\I-Life\source\repos\SQLOdev\SQLOdev\obj\Debug\SQLOdev.exe
+C:\Users\I-Life\source\repos\SQLOdev\SQLOdev\obj\Debug\SQLOdev.pdb

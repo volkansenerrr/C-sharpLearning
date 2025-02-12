@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\I-Life\\source\\repos\\DeynekciOtopark\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A28F7C5-859E-4E68-A6F8-BA38908C99AB}|DeynekciOtopark\\DeynekciOtopark.csproj|c:\\users\\i-life\\source\\repos\\deynekciotopark\\deynekciotopark\\otopark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A28F7C5-859E-4E68-A6F8-BA38908C99AB}|DeynekciOtopark\\DeynekciOtopark.csproj|solutionrelative:deynekciotopark\\otopark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A28F7C5-859E-4E68-A6F8-BA38908C99AB}|DeynekciOtopark\\DeynekciOtopark.csproj|C:\\Users\\I-Life\\source\\repos\\DeynekciOtopark\\deynekciotopark\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A28F7C5-859E-4E68-A6F8-BA38908C99AB}|DeynekciOtopark\\DeynekciOtopark.csproj|solutionrelative:deynekciotopark\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Otopark.cs",
+              "DocumentMoniker": "C:\\Users\\I-Life\\source\\repos\\DeynekciOtopark\\DeynekciOtopark\\Otopark.cs",
+              "RelativeDocumentMoniker": "DeynekciOtopark\\Otopark.cs",
+              "ToolTip": "C:\\Users\\I-Life\\source\\repos\\DeynekciOtopark\\DeynekciOtopark\\Otopark.cs*",
+              "RelativeToolTip": "DeynekciOtopark\\Otopark.cs*",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwCYAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T11:52:53.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\I-Life\\source\\repos\\DeynekciOtopark\\DeynekciOtopark\\Program.cs",
+              "RelativeDocumentMoniker": "DeynekciOtopark\\Program.cs",
+              "ToolTip": "C:\\Users\\I-Life\\source\\repos\\DeynekciOtopark\\DeynekciOtopark\\Program.cs",
+              "RelativeToolTip": "DeynekciOtopark\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAQwCEAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T11:37:24.976Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

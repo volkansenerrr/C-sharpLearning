@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\I-Life\\source\\repos\\SinavSistemi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8F9FB7-1E47-473E-AEFC-F70A3E64A3DD}|SinavSistemi\\SinavSistemi.csproj|c:\\users\\i-life\\source\\repos\\sinavsistemi\\sinavsistemi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B8F9FB7-1E47-473E-AEFC-F70A3E64A3DD}|SinavSistemi\\SinavSistemi.csproj|solutionrelative:sinavsistemi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8F9FB7-1E47-473E-AEFC-F70A3E64A3DD}|SinavSistemi\\SinavSistemi.csproj|C:\\Users\\I-Life\\source\\repos\\SinavSistemi\\sinavsistemi\\soru.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B8F9FB7-1E47-473E-AEFC-F70A3E64A3DD}|SinavSistemi\\SinavSistemi.csproj|solutionrelative:sinavsistemi\\soru.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8F9FB7-1E47-473E-AEFC-F70A3E64A3DD}|SinavSistemi\\SinavSistemi.csproj|C:\\Users\\I-Life\\source\\repos\\SinavSistemi\\sinavsistemi\\sinav.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B8F9FB7-1E47-473E-AEFC-F70A3E64A3DD}|SinavSistemi\\SinavSistemi.csproj|solutionrelative:sinavsistemi\\sinav.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sinav.cs",
+              "DocumentMoniker": "C:\\Users\\I-Life\\source\\repos\\SinavSistemi\\SinavSistemi\\Sinav.cs",
+              "RelativeDocumentMoniker": "SinavSistemi\\Sinav.cs",
+              "ToolTip": "C:\\Users\\I-Life\\source\\repos\\SinavSistemi\\SinavSistemi\\Sinav.cs",
+              "RelativeToolTip": "SinavSistemi\\Sinav.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T15:49:45.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Soru.cs",
+              "DocumentMoniker": "C:\\Users\\I-Life\\source\\repos\\SinavSistemi\\SinavSistemi\\Soru.cs",
+              "RelativeDocumentMoniker": "SinavSistemi\\Soru.cs",
+              "ToolTip": "C:\\Users\\I-Life\\source\\repos\\SinavSistemi\\SinavSistemi\\Soru.cs",
+              "RelativeToolTip": "SinavSistemi\\Soru.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T15:49:45.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\I-Life\\source\\repos\\SinavSistemi\\SinavSistemi\\Program.cs",
+              "RelativeDocumentMoniker": "SinavSistemi\\Program.cs",
+              "ToolTip": "C:\\Users\\I-Life\\source\\repos\\SinavSistemi\\SinavSistemi\\Program.cs",
+              "RelativeToolTip": "SinavSistemi\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwBIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T15:49:46.047Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

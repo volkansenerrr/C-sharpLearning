@@ -1,0 +1,7 @@
+C:\Users\I-Life\source\repos\Generic(Jenerik)Koleksiyonlar\Generic(Jenerik)Koleksiyonlar\bin\Debug\Generic(Jenerik)Koleksiyonlar.exe.config
+C:\Users\I-Life\source\repos\Generic(Jenerik)Koleksiyonlar\Generic(Jenerik)Koleksiyonlar\bin\Debug\Generic(Jenerik)Koleksiyonlar.exe
+C:\Users\I-Life\source\repos\Generic(Jenerik)Koleksiyonlar\Generic(Jenerik)Koleksiyonlar\bin\Debug\Generic(Jenerik)Koleksiyonlar.pdb
+C:\Users\I-Life\source\repos\Generic(Jenerik)Koleksiyonlar\Generic(Jenerik)Koleksiyonlar\obj\Debug\Generic(Jenerik)Koleksiyonlar.csproj.AssemblyReference.cache
+C:\Users\I-Life\source\repos\Generic(Jenerik)Koleksiyonlar\Generic(Jenerik)Koleksiyonlar\obj\Debug\Generic(Jenerik)Koleksiyonlar.csproj.CoreCompileInputs.cache
+C:\Users\I-Life\source\repos\Generic(Jenerik)Koleksiyonlar\Generic(Jenerik)Koleksiyonlar\obj\Debug\Generic(Jenerik)Koleksiyonlar.exe
+C:\Users\I-Life\source\repos\Generic(Jenerik)Koleksiyonlar\Generic(Jenerik)Koleksiyonlar\obj\Debug\Generic(Jenerik)Koleksiyonlar.pdb

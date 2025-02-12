@@ -1,0 +1,7 @@
+C:\Users\I-Life\source\repos\DegerReferansNesne\DegerReferansNesne\bin\Debug\DegerReferansNesne.exe.config
+C:\Users\I-Life\source\repos\DegerReferansNesne\DegerReferansNesne\bin\Debug\DegerReferansNesne.exe
+C:\Users\I-Life\source\repos\DegerReferansNesne\DegerReferansNesne\bin\Debug\DegerReferansNesne.pdb
+C:\Users\I-Life\source\repos\DegerReferansNesne\DegerReferansNesne\obj\Debug\DegerReferansNesne.csproj.AssemblyReference.cache
+C:\Users\I-Life\source\repos\DegerReferansNesne\DegerReferansNesne\obj\Debug\DegerReferansNesne.csproj.CoreCompileInputs.cache
+C:\Users\I-Life\source\repos\DegerReferansNesne\DegerReferansNesne\obj\Debug\DegerReferansNesne.exe
+C:\Users\I-Life\source\repos\DegerReferansNesne\DegerReferansNesne\obj\Debug\DegerReferansNesne.pdb

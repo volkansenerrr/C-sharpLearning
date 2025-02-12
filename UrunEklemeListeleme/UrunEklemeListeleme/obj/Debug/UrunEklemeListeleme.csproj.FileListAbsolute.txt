@@ -1,0 +1,7 @@
+C:\Users\I-Life\source\repos\UrunEklemeListeleme\UrunEklemeListeleme\bin\Debug\UrunEklemeListeleme.exe.config
+C:\Users\I-Life\source\repos\UrunEklemeListeleme\UrunEklemeListeleme\bin\Debug\UrunEklemeListeleme.exe
+C:\Users\I-Life\source\repos\UrunEklemeListeleme\UrunEklemeListeleme\bin\Debug\UrunEklemeListeleme.pdb
+C:\Users\I-Life\source\repos\UrunEklemeListeleme\UrunEklemeListeleme\obj\Debug\UrunEklemeListeleme.csproj.AssemblyReference.cache
+C:\Users\I-Life\source\repos\UrunEklemeListeleme\UrunEklemeListeleme\obj\Debug\UrunEklemeListeleme.csproj.CoreCompileInputs.cache
+C:\Users\I-Life\source\repos\UrunEklemeListeleme\UrunEklemeListeleme\obj\Debug\UrunEklemeListeleme.exe
+C:\Users\I-Life\source\repos\UrunEklemeListeleme\UrunEklemeListeleme\obj\Debug\UrunEklemeListeleme.pdb

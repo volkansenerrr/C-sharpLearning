@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\I-Life\\source\\repos\\IngilizceKelimeTesti\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE36BACA-5398-4797-8304-A00174A84EFC}|IngilizceKelimeTesti\\IngilizceKelimeTesti.csproj|c:\\users\\i-life\\source\\repos\\ingilizcekelimetesti\\ingilizcekelimetesti\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE36BACA-5398-4797-8304-A00174A84EFC}|IngilizceKelimeTesti\\IngilizceKelimeTesti.csproj|solutionrelative:ingilizcekelimetesti\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE36BACA-5398-4797-8304-A00174A84EFC}|IngilizceKelimeTesti\\IngilizceKelimeTesti.csproj|C:\\Users\\I-Life\\source\\repos\\IngilizceKelimeTesti\\ingilizcekelimetesti\\soru.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE36BACA-5398-4797-8304-A00174A84EFC}|IngilizceKelimeTesti\\IngilizceKelimeTesti.csproj|solutionrelative:ingilizcekelimetesti\\soru.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE36BACA-5398-4797-8304-A00174A84EFC}|IngilizceKelimeTesti\\IngilizceKelimeTesti.csproj|C:\\Users\\I-Life\\source\\repos\\IngilizceKelimeTesti\\ingilizcekelimetesti\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE36BACA-5398-4797-8304-A00174A84EFC}|IngilizceKelimeTesti\\IngilizceKelimeTesti.csproj|solutionrelative:ingilizcekelimetesti\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Soru.cs",
+              "DocumentMoniker": "C:\\Users\\I-Life\\source\\repos\\IngilizceKelimeTesti\\IngilizceKelimeTesti\\Soru.cs",
+              "RelativeDocumentMoniker": "IngilizceKelimeTesti\\Soru.cs",
+              "ToolTip": "C:\\Users\\I-Life\\source\\repos\\IngilizceKelimeTesti\\IngilizceKelimeTesti\\Soru.cs",
+              "RelativeToolTip": "IngilizceKelimeTesti\\Soru.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T05:07:21.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Test.cs",
+              "DocumentMoniker": "C:\\Users\\I-Life\\source\\repos\\IngilizceKelimeTesti\\IngilizceKelimeTesti\\Test.cs",
+              "RelativeDocumentMoniker": "IngilizceKelimeTesti\\Test.cs",
+              "ToolTip": "C:\\Users\\I-Life\\source\\repos\\IngilizceKelimeTesti\\IngilizceKelimeTesti\\Test.cs",
+              "RelativeToolTip": "IngilizceKelimeTesti\\Test.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T05:07:21.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\I-Life\\source\\repos\\IngilizceKelimeTesti\\IngilizceKelimeTesti\\Program.cs",
+              "RelativeDocumentMoniker": "IngilizceKelimeTesti\\Program.cs",
+              "ToolTip": "C:\\Users\\I-Life\\source\\repos\\IngilizceKelimeTesti\\IngilizceKelimeTesti\\Program.cs",
+              "RelativeToolTip": "IngilizceKelimeTesti\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAJEBAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T05:07:21.611Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

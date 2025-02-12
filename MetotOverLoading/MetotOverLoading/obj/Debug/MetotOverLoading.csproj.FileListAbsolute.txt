@@ -1,0 +1,7 @@
+C:\Users\Alp\source\repos\MetotOverloading\MetotOverloading\bin\Debug\MetotOverloading.exe.config
+C:\Users\Alp\source\repos\MetotOverloading\MetotOverloading\bin\Debug\MetotOverloading.exe
+C:\Users\Alp\source\repos\MetotOverloading\MetotOverloading\bin\Debug\MetotOverloading.pdb
+C:\Users\Alp\source\repos\MetotOverloading\MetotOverloading\obj\Debug\MetotOverloading.csproj.AssemblyReference.cache
+C:\Users\Alp\source\repos\MetotOverloading\MetotOverloading\obj\Debug\MetotOverloading.csproj.CoreCompileInputs.cache
+C:\Users\Alp\source\repos\MetotOverloading\MetotOverloading\obj\Debug\MetotOverloading.exe
+C:\Users\Alp\source\repos\MetotOverloading\MetotOverloading\obj\Debug\MetotOverloading.pdb

@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\I-Life\\source\\repos\\KutuphaneUygulamasiOdev\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE6F7E0-DD8C-4214-A4D6-E22D84F2F672}|KutuphaneUygulamasiOdev\\KutuphaneUygulamasiOdev.csproj|c:\\users\\i-life\\source\\repos\\kutuphaneuygulamasiodev\\kutuphaneuygulamasiodev\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE6F7E0-DD8C-4214-A4D6-E22D84F2F672}|KutuphaneUygulamasiOdev\\KutuphaneUygulamasiOdev.csproj|solutionrelative:kutuphaneuygulamasiodev\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE6F7E0-DD8C-4214-A4D6-E22D84F2F672}|KutuphaneUygulamasiOdev\\KutuphaneUygulamasiOdev.csproj|C:\\Users\\I-Life\\source\\repos\\KutuphaneUygulamasiOdev\\kutuphaneuygulamasiodev\\kitap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE6F7E0-DD8C-4214-A4D6-E22D84F2F672}|KutuphaneUygulamasiOdev\\KutuphaneUygulamasiOdev.csproj|solutionrelative:kutuphaneuygulamasiodev\\kitap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Kitap.cs",
+              "DocumentMoniker": "C:\\Users\\I-Life\\source\\repos\\KutuphaneUygulamasiOdev\\KutuphaneUygulamasiOdev\\Kitap.cs",
+              "RelativeDocumentMoniker": "KutuphaneUygulamasiOdev\\Kitap.cs",
+              "ToolTip": "C:\\Users\\I-Life\\source\\repos\\KutuphaneUygulamasiOdev\\KutuphaneUygulamasiOdev\\Kitap.cs",
+              "RelativeToolTip": "KutuphaneUygulamasiOdev\\Kitap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T16:06:30.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\I-Life\\source\\repos\\KutuphaneUygulamasiOdev\\KutuphaneUygulamasiOdev\\Program.cs",
+              "RelativeDocumentMoniker": "KutuphaneUygulamasiOdev\\Program.cs",
+              "ToolTip": "C:\\Users\\I-Life\\source\\repos\\KutuphaneUygulamasiOdev\\KutuphaneUygulamasiOdev\\Program.cs",
+              "RelativeToolTip": "KutuphaneUygulamasiOdev\\Program.cs",
+              "ViewState": "AQIAAJEAAAAAAAAAAAAQwKcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T15:32:59.54Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
