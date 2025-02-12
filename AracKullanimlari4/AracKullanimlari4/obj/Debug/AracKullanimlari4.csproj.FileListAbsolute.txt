@@ -1,0 +1,10 @@
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\Udemy Projeler\AracKullanimlari4\AracKullanimlari4\bin\Debug\AracKullanimlari4.exe.config
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\Udemy Projeler\AracKullanimlari4\AracKullanimlari4\bin\Debug\AracKullanimlari4.exe
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\Udemy Projeler\AracKullanimlari4\AracKullanimlari4\bin\Debug\AracKullanimlari4.pdb
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\Udemy Projeler\AracKullanimlari4\AracKullanimlari4\obj\Debug\AracKullanimlari4.csproj.AssemblyReference.cache
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\Udemy Projeler\AracKullanimlari4\AracKullanimlari4\obj\Debug\AracKullanimlari4.Form1.resources
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\Udemy Projeler\AracKullanimlari4\AracKullanimlari4\obj\Debug\AracKullanimlari4.Properties.Resources.resources
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\Udemy Projeler\AracKullanimlari4\AracKullanimlari4\obj\Debug\AracKullanimlari4.csproj.GenerateResource.cache
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\Udemy Projeler\AracKullanimlari4\AracKullanimlari4\obj\Debug\AracKullanimlari4.csproj.CoreCompileInputs.cache
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\Udemy Projeler\AracKullanimlari4\AracKullanimlari4\obj\Debug\AracKullanimlari4.exe
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\Udemy Projeler\AracKullanimlari4\AracKullanimlari4\obj\Debug\AracKullanimlari4.pdb

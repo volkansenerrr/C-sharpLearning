@@ -1,0 +1,10 @@
+C:\Users\I-Life\source\repos\AracKullanimlari3\AracKullanimlari3\bin\Debug\AracKullanimlari3.exe.config
+C:\Users\I-Life\source\repos\AracKullanimlari3\AracKullanimlari3\bin\Debug\AracKullanimlari3.exe
+C:\Users\I-Life\source\repos\AracKullanimlari3\AracKullanimlari3\bin\Debug\AracKullanimlari3.pdb
+C:\Users\I-Life\source\repos\AracKullanimlari3\AracKullanimlari3\obj\Debug\AracKullanimlari3.csproj.AssemblyReference.cache
+C:\Users\I-Life\source\repos\AracKullanimlari3\AracKullanimlari3\obj\Debug\AracKullanimlari3.Form1.resources
+C:\Users\I-Life\source\repos\AracKullanimlari3\AracKullanimlari3\obj\Debug\AracKullanimlari3.Properties.Resources.resources
+C:\Users\I-Life\source\repos\AracKullanimlari3\AracKullanimlari3\obj\Debug\AracKullanimlari3.csproj.GenerateResource.cache
+C:\Users\I-Life\source\repos\AracKullanimlari3\AracKullanimlari3\obj\Debug\AracKullanimlari3.csproj.CoreCompileInputs.cache
+C:\Users\I-Life\source\repos\AracKullanimlari3\AracKullanimlari3\obj\Debug\AracKullanimlari3.exe
+C:\Users\I-Life\source\repos\AracKullanimlari3\AracKullanimlari3\obj\Debug\AracKullanimlari3.pdb

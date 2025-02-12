@@ -1,0 +1,7 @@
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\udemy sadık turan web geliştirme eğitimi\.Net Framework - C# - Veri Yapıları\Diziler(Arrays)\Diziler(Arrays)\bin\Debug\Diziler(Arrays).exe.config
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\udemy sadık turan web geliştirme eğitimi\.Net Framework - C# - Veri Yapıları\Diziler(Arrays)\Diziler(Arrays)\bin\Debug\Diziler(Arrays).exe
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\udemy sadık turan web geliştirme eğitimi\.Net Framework - C# - Veri Yapıları\Diziler(Arrays)\Diziler(Arrays)\bin\Debug\Diziler(Arrays).pdb
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\udemy sadık turan web geliştirme eğitimi\.Net Framework - C# - Veri Yapıları\Diziler(Arrays)\Diziler(Arrays)\obj\Debug\Diziler(Arrays).csproj.AssemblyReference.cache
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\udemy sadık turan web geliştirme eğitimi\.Net Framework - C# - Veri Yapıları\Diziler(Arrays)\Diziler(Arrays)\obj\Debug\Diziler(Arrays).csproj.CoreCompileInputs.cache
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\udemy sadık turan web geliştirme eğitimi\.Net Framework - C# - Veri Yapıları\Diziler(Arrays)\Diziler(Arrays)\obj\Debug\Diziler(Arrays).exe
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\udemy sadık turan web geliştirme eğitimi\.Net Framework - C# - Veri Yapıları\Diziler(Arrays)\Diziler(Arrays)\obj\Debug\Diziler(Arrays).pdb

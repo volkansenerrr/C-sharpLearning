@@ -1,0 +1,10 @@
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\Udemy Projeler\AracKullanimlari2\AracKullanimlari2\bin\Debug\AracKullanimlari2.exe.config
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\Udemy Projeler\AracKullanimlari2\AracKullanimlari2\bin\Debug\AracKullanimlari2.exe
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\Udemy Projeler\AracKullanimlari2\AracKullanimlari2\bin\Debug\AracKullanimlari2.pdb
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\Udemy Projeler\AracKullanimlari2\AracKullanimlari2\obj\Debug\AracKullanimlari2.csproj.AssemblyReference.cache
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\Udemy Projeler\AracKullanimlari2\AracKullanimlari2\obj\Debug\AracKullanimlari2.Form1.resources
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\Udemy Projeler\AracKullanimlari2\AracKullanimlari2\obj\Debug\AracKullanimlari2.Properties.Resources.resources
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\Udemy Projeler\AracKullanimlari2\AracKullanimlari2\obj\Debug\AracKullanimlari2.csproj.GenerateResource.cache
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\Udemy Projeler\AracKullanimlari2\AracKullanimlari2\obj\Debug\AracKullanimlari2.csproj.CoreCompileInputs.cache
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\Udemy Projeler\AracKullanimlari2\AracKullanimlari2\obj\Debug\AracKullanimlari2.exe
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\Udemy Projeler\AracKullanimlari2\AracKullanimlari2\obj\Debug\AracKullanimlari2.pdb

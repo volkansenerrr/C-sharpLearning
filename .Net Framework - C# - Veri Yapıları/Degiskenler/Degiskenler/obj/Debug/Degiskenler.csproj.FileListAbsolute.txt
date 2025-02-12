@@ -1,0 +1,7 @@
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\udemy sadık turan web geliştirme eğitimi\.Net Framework - C# - Veri Yapıları\Degiskenler\Degiskenler\obj\Debug\Degiskenler.csproj.AssemblyReference.cache
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\udemy sadık turan web geliştirme eğitimi\.Net Framework - C# - Veri Yapıları\Degiskenler\Degiskenler\obj\Debug\Degiskenler.csproj.CoreCompileInputs.cache
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\udemy sadık turan web geliştirme eğitimi\.Net Framework - C# - Veri Yapıları\Degiskenler\Degiskenler\bin\Debug\Degiskenler.exe.config
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\udemy sadık turan web geliştirme eğitimi\.Net Framework - C# - Veri Yapıları\Degiskenler\Degiskenler\bin\Debug\Degiskenler.exe
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\udemy sadık turan web geliştirme eğitimi\.Net Framework - C# - Veri Yapıları\Degiskenler\Degiskenler\bin\Debug\Degiskenler.pdb
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\udemy sadık turan web geliştirme eğitimi\.Net Framework - C# - Veri Yapıları\Degiskenler\Degiskenler\obj\Debug\Degiskenler.exe
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\udemy sadık turan web geliştirme eğitimi\.Net Framework - C# - Veri Yapıları\Degiskenler\Degiskenler\obj\Debug\Degiskenler.pdb

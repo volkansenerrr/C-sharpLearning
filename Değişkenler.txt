@@ -1,0 +1,16 @@
+Değişken(Variable)
+--------------------
+Değişken verilerimizi RAM bellekte tutmamızı yarayan alan veya alanlardır.
+RAM(RANDOM ACCESS MEMORY) rastgele erişim belleği verilerin geçici saklandığı bellek.
+--------------------
+Birden çok veri tipinde değişken var
+Öncelikle
+string(metin)
+int integer(tam sayı) belli bir değer aralığına sahip.
+double
+char
+ile başlayacağız
+---------------------
+Değişken türü boşluk değişken adı 
+The variable 'metin' is declared but never used.Metin değişkeni tanımlanmış ama hiç kullanılmamış.
+Eğer string bir ifade yazılmış ver ardından int bir değer yazılmışsa int değeri string ile birlikte string yazdırır çevirme işlemine gerek yok.

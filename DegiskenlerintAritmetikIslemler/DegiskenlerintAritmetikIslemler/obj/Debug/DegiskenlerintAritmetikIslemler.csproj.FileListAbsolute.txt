@@ -1,0 +1,21 @@
+C:\Users\I-Life\source\repos\DegiskenlerintAritmetikIslemler\DegiskenlerintAritmetikIslemler\bin\Debug\DegiskenlerintAritmetikIslemler.exe.config
+C:\Users\I-Life\source\repos\DegiskenlerintAritmetikIslemler\DegiskenlerintAritmetikIslemler\bin\Debug\DegiskenlerintAritmetikIslemler.exe
+C:\Users\I-Life\source\repos\DegiskenlerintAritmetikIslemler\DegiskenlerintAritmetikIslemler\bin\Debug\DegiskenlerintAritmetikIslemler.pdb
+C:\Users\I-Life\source\repos\DegiskenlerintAritmetikIslemler\DegiskenlerintAritmetikIslemler\obj\Debug\DegiskenlerintAritmetikIslemler.csproj.AssemblyReference.cache
+C:\Users\I-Life\source\repos\DegiskenlerintAritmetikIslemler\DegiskenlerintAritmetikIslemler\obj\Debug\DegiskenlerintAritmetikIslemler.Form1.resources
+C:\Users\I-Life\source\repos\DegiskenlerintAritmetikIslemler\DegiskenlerintAritmetikIslemler\obj\Debug\DegiskenlerintAritmetikIslemler.Properties.Resources.resources
+C:\Users\I-Life\source\repos\DegiskenlerintAritmetikIslemler\DegiskenlerintAritmetikIslemler\obj\Debug\DegiskenlerintAritmetikIslemler.csproj.GenerateResource.cache
+C:\Users\I-Life\source\repos\DegiskenlerintAritmetikIslemler\DegiskenlerintAritmetikIslemler\obj\Debug\DegiskenlerintAritmetikIslemler.csproj.CoreCompileInputs.cache
+C:\Users\I-Life\source\repos\DegiskenlerintAritmetikIslemler\DegiskenlerintAritmetikIslemler\obj\Debug\DegiskenlerintAritmetikIslemler.exe
+C:\Users\I-Life\source\repos\DegiskenlerintAritmetikIslemler\DegiskenlerintAritmetikIslemler\obj\Debug\DegiskenlerintAritmetikIslemler.pdb
+C:\Users\I-Life\source\repos\DegiskenlerintAritmetikIslemler\DegiskenlerintAritmetikIslemler\obj\Debug\DegiskenlerintAritmetikIslemler.Form2.resources
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\Udemy Projeler\DegiskenlerintAritmetikIslemler\DegiskenlerintAritmetikIslemler\bin\Debug\DegiskenlerintAritmetikIslemler.exe.config
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\Udemy Projeler\DegiskenlerintAritmetikIslemler\DegiskenlerintAritmetikIslemler\bin\Debug\DegiskenlerintAritmetikIslemler.exe
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\Udemy Projeler\DegiskenlerintAritmetikIslemler\DegiskenlerintAritmetikIslemler\bin\Debug\DegiskenlerintAritmetikIslemler.pdb
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\Udemy Projeler\DegiskenlerintAritmetikIslemler\DegiskenlerintAritmetikIslemler\obj\Debug\DegiskenlerintAritmetikIslemler.csproj.AssemblyReference.cache
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\Udemy Projeler\DegiskenlerintAritmetikIslemler\DegiskenlerintAritmetikIslemler\obj\Debug\DegiskenlerintAritmetikIslemler.Form1.resources
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\Udemy Projeler\DegiskenlerintAritmetikIslemler\DegiskenlerintAritmetikIslemler\obj\Debug\DegiskenlerintAritmetikIslemler.Properties.Resources.resources
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\Udemy Projeler\DegiskenlerintAritmetikIslemler\DegiskenlerintAritmetikIslemler\obj\Debug\DegiskenlerintAritmetikIslemler.csproj.GenerateResource.cache
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\Udemy Projeler\DegiskenlerintAritmetikIslemler\DegiskenlerintAritmetikIslemler\obj\Debug\DegiskenlerintAritmetikIslemler.csproj.CoreCompileInputs.cache
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\Udemy Projeler\DegiskenlerintAritmetikIslemler\DegiskenlerintAritmetikIslemler\obj\Debug\DegiskenlerintAritmetikIslemler.exe
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\Udemy Projeler\DegiskenlerintAritmetikIslemler\DegiskenlerintAritmetikIslemler\obj\Debug\DegiskenlerintAritmetikIslemler.pdb

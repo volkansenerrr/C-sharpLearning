@@ -1,0 +1,7 @@
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\udemy sadık turan web geliştirme eğitimi\.Net Framework - C# - Veri Yapıları\VeriTipiDonusumu\VeriTipiDonusumu\bin\Debug\VeriTipiDonusumu.exe.config
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\udemy sadık turan web geliştirme eğitimi\.Net Framework - C# - Veri Yapıları\VeriTipiDonusumu\VeriTipiDonusumu\bin\Debug\VeriTipiDonusumu.exe
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\udemy sadık turan web geliştirme eğitimi\.Net Framework - C# - Veri Yapıları\VeriTipiDonusumu\VeriTipiDonusumu\bin\Debug\VeriTipiDonusumu.pdb
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\udemy sadık turan web geliştirme eğitimi\.Net Framework - C# - Veri Yapıları\VeriTipiDonusumu\VeriTipiDonusumu\obj\Debug\VeriTipiDonusumu.csproj.AssemblyReference.cache
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\udemy sadık turan web geliştirme eğitimi\.Net Framework - C# - Veri Yapıları\VeriTipiDonusumu\VeriTipiDonusumu\obj\Debug\VeriTipiDonusumu.csproj.CoreCompileInputs.cache
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\udemy sadık turan web geliştirme eğitimi\.Net Framework - C# - Veri Yapıları\VeriTipiDonusumu\VeriTipiDonusumu\obj\Debug\VeriTipiDonusumu.exe
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\udemy sadık turan web geliştirme eğitimi\.Net Framework - C# - Veri Yapıları\VeriTipiDonusumu\VeriTipiDonusumu\obj\Debug\VeriTipiDonusumu.pdb

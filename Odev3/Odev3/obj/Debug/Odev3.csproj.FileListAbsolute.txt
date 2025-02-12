@@ -1,0 +1,20 @@
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\Udemy Projeler\Odev3\Odev3\bin\Debug\Odev3.exe.config
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\Udemy Projeler\Odev3\Odev3\bin\Debug\Odev3.exe
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\Udemy Projeler\Odev3\Odev3\bin\Debug\Odev3.pdb
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\Udemy Projeler\Odev3\Odev3\obj\Debug\Odev3.csproj.AssemblyReference.cache
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\Udemy Projeler\Odev3\Odev3\obj\Debug\Odev3.Form1.resources
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\Udemy Projeler\Odev3\Odev3\obj\Debug\Odev3.Properties.Resources.resources
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\Udemy Projeler\Odev3\Odev3\obj\Debug\Odev3.csproj.GenerateResource.cache
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\Udemy Projeler\Odev3\Odev3\obj\Debug\Odev3.csproj.CoreCompileInputs.cache
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\Udemy Projeler\Odev3\Odev3\obj\Debug\Odev3.exe
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\Udemy Projeler\Odev3\Odev3\obj\Debug\Odev3.pdb
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\c# Udemy Projeler\Odev3\Odev3\bin\Debug\Odev3.exe.config
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\c# Udemy Projeler\Odev3\Odev3\bin\Debug\Odev3.exe
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\c# Udemy Projeler\Odev3\Odev3\bin\Debug\Odev3.pdb
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\c# Udemy Projeler\Odev3\Odev3\obj\Debug\Odev3.csproj.AssemblyReference.cache
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\c# Udemy Projeler\Odev3\Odev3\obj\Debug\Odev3.Form1.resources
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\c# Udemy Projeler\Odev3\Odev3\obj\Debug\Odev3.Properties.Resources.resources
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\c# Udemy Projeler\Odev3\Odev3\obj\Debug\Odev3.csproj.GenerateResource.cache
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\c# Udemy Projeler\Odev3\Odev3\obj\Debug\Odev3.csproj.CoreCompileInputs.cache
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\c# Udemy Projeler\Odev3\Odev3\obj\Debug\Odev3.exe
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\c# Udemy Projeler\Odev3\Odev3\obj\Debug\Odev3.pdb

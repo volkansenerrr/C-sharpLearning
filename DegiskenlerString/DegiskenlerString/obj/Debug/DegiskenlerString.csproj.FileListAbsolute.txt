@@ -1,0 +1,10 @@
+C:\Users\I-Life\source\repos\DegiskenlerString\DegiskenlerString\bin\Debug\DegiskenlerString.exe.config
+C:\Users\I-Life\source\repos\DegiskenlerString\DegiskenlerString\bin\Debug\DegiskenlerString.exe
+C:\Users\I-Life\source\repos\DegiskenlerString\DegiskenlerString\bin\Debug\DegiskenlerString.pdb
+C:\Users\I-Life\source\repos\DegiskenlerString\DegiskenlerString\obj\Debug\DegiskenlerString.csproj.AssemblyReference.cache
+C:\Users\I-Life\source\repos\DegiskenlerString\DegiskenlerString\obj\Debug\DegiskenlerString.Form1.resources
+C:\Users\I-Life\source\repos\DegiskenlerString\DegiskenlerString\obj\Debug\DegiskenlerString.Properties.Resources.resources
+C:\Users\I-Life\source\repos\DegiskenlerString\DegiskenlerString\obj\Debug\DegiskenlerString.csproj.GenerateResource.cache
+C:\Users\I-Life\source\repos\DegiskenlerString\DegiskenlerString\obj\Debug\DegiskenlerString.csproj.CoreCompileInputs.cache
+C:\Users\I-Life\source\repos\DegiskenlerString\DegiskenlerString\obj\Debug\DegiskenlerString.exe
+C:\Users\I-Life\source\repos\DegiskenlerString\DegiskenlerString\obj\Debug\DegiskenlerString.pdb

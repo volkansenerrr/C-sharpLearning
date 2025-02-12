@@ -1,0 +1,10 @@
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\Udemy Projeler\Ödev 1\Ödev 1\bin\Debug\Ödev 1.exe.config
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\Udemy Projeler\Ödev 1\Ödev 1\bin\Debug\Ödev 1.exe
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\Udemy Projeler\Ödev 1\Ödev 1\bin\Debug\Ödev 1.pdb
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\Udemy Projeler\Ödev 1\Ödev 1\obj\Debug\Ödev 1.csproj.AssemblyReference.cache
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\Udemy Projeler\Ödev 1\Ödev 1\obj\Debug\Ödev_1.Form1.resources
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\Udemy Projeler\Ödev 1\Ödev 1\obj\Debug\Ödev_1.Properties.Resources.resources
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\Udemy Projeler\Ödev 1\Ödev 1\obj\Debug\Ödev 1.csproj.GenerateResource.cache
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\Udemy Projeler\Ödev 1\Ödev 1\obj\Debug\Ödev 1.csproj.CoreCompileInputs.cache
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\Udemy Projeler\Ödev 1\Ödev 1\obj\Debug\Ödev 1.exe
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\Udemy Projeler\Ödev 1\Ödev 1\obj\Debug\Ödev 1.pdb

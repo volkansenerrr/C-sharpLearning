@@ -1,0 +1,10 @@
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\Udemy Projeler\DegiskenlerInt\DegiskenlerInt\bin\Debug\DegiskenlerInt.exe.config
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\Udemy Projeler\DegiskenlerInt\DegiskenlerInt\bin\Debug\DegiskenlerInt.exe
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\Udemy Projeler\DegiskenlerInt\DegiskenlerInt\bin\Debug\DegiskenlerInt.pdb
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\Udemy Projeler\DegiskenlerInt\DegiskenlerInt\obj\Debug\DegiskenlerInt.csproj.AssemblyReference.cache
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\Udemy Projeler\DegiskenlerInt\DegiskenlerInt\obj\Debug\DegiskenlerInt.Form1.resources
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\Udemy Projeler\DegiskenlerInt\DegiskenlerInt\obj\Debug\DegiskenlerInt.Properties.Resources.resources
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\Udemy Projeler\DegiskenlerInt\DegiskenlerInt\obj\Debug\DegiskenlerInt.csproj.GenerateResource.cache
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\Udemy Projeler\DegiskenlerInt\DegiskenlerInt\obj\Debug\DegiskenlerInt.csproj.CoreCompileInputs.cache
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\Udemy Projeler\DegiskenlerInt\DegiskenlerInt\obj\Debug\DegiskenlerInt.exe
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\Udemy Projeler\DegiskenlerInt\DegiskenlerInt\obj\Debug\DegiskenlerInt.pdb

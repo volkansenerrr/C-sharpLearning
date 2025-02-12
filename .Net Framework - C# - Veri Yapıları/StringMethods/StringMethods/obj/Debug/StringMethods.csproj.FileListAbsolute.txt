@@ -1,0 +1,7 @@
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\udemy sadık turan web geliştirme eğitimi\.Net Framework - C# - Veri Yapıları\StringMethods\StringMethods\bin\Debug\StringMethods.exe.config
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\udemy sadık turan web geliştirme eğitimi\.Net Framework - C# - Veri Yapıları\StringMethods\StringMethods\bin\Debug\StringMethods.exe
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\udemy sadık turan web geliştirme eğitimi\.Net Framework - C# - Veri Yapıları\StringMethods\StringMethods\bin\Debug\StringMethods.pdb
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\udemy sadık turan web geliştirme eğitimi\.Net Framework - C# - Veri Yapıları\StringMethods\StringMethods\obj\Debug\StringMethods.csproj.AssemblyReference.cache
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\udemy sadık turan web geliştirme eğitimi\.Net Framework - C# - Veri Yapıları\StringMethods\StringMethods\obj\Debug\StringMethods.csproj.CoreCompileInputs.cache
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\udemy sadık turan web geliştirme eğitimi\.Net Framework - C# - Veri Yapıları\StringMethods\StringMethods\obj\Debug\StringMethods.exe
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\udemy sadık turan web geliştirme eğitimi\.Net Framework - C# - Veri Yapıları\StringMethods\StringMethods\obj\Debug\StringMethods.pdb

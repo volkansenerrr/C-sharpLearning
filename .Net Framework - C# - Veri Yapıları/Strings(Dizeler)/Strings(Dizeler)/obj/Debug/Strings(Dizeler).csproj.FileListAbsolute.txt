@@ -1,0 +1,7 @@
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\udemy sadık turan web geliştirme eğitimi\.Net Framework - C# - Veri Yapıları\Strings(Dizeler)\Strings(Dizeler)\bin\Debug\Strings(Dizeler).exe.config
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\udemy sadık turan web geliştirme eğitimi\.Net Framework - C# - Veri Yapıları\Strings(Dizeler)\Strings(Dizeler)\bin\Debug\Strings(Dizeler).exe
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\udemy sadık turan web geliştirme eğitimi\.Net Framework - C# - Veri Yapıları\Strings(Dizeler)\Strings(Dizeler)\bin\Debug\Strings(Dizeler).pdb
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\udemy sadık turan web geliştirme eğitimi\.Net Framework - C# - Veri Yapıları\Strings(Dizeler)\Strings(Dizeler)\obj\Debug\Strings(Dizeler).csproj.AssemblyReference.cache
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\udemy sadık turan web geliştirme eğitimi\.Net Framework - C# - Veri Yapıları\Strings(Dizeler)\Strings(Dizeler)\obj\Debug\Strings(Dizeler).csproj.CoreCompileInputs.cache
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\udemy sadık turan web geliştirme eğitimi\.Net Framework - C# - Veri Yapıları\Strings(Dizeler)\Strings(Dizeler)\obj\Debug\Strings(Dizeler).exe
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\udemy sadık turan web geliştirme eğitimi\.Net Framework - C# - Veri Yapıları\Strings(Dizeler)\Strings(Dizeler)\obj\Debug\Strings(Dizeler).pdb

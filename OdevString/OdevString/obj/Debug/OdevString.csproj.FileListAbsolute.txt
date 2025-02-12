@@ -1,0 +1,10 @@
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\Udemy Projeler\OdevString\OdevString\bin\Debug\OdevString.exe.config
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\Udemy Projeler\OdevString\OdevString\bin\Debug\OdevString.exe
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\Udemy Projeler\OdevString\OdevString\bin\Debug\OdevString.pdb
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\Udemy Projeler\OdevString\OdevString\obj\Debug\OdevString.csproj.AssemblyReference.cache
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\Udemy Projeler\OdevString\OdevString\obj\Debug\OdevString.Form1.resources
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\Udemy Projeler\OdevString\OdevString\obj\Debug\OdevString.Properties.Resources.resources
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\Udemy Projeler\OdevString\OdevString\obj\Debug\OdevString.csproj.GenerateResource.cache
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\Udemy Projeler\OdevString\OdevString\obj\Debug\OdevString.csproj.CoreCompileInputs.cache
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\Udemy Projeler\OdevString\OdevString\obj\Debug\OdevString.exe
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\Udemy Projeler\OdevString\OdevString\obj\Debug\OdevString.pdb

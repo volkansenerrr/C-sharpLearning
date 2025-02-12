@@ -1,0 +1,7 @@
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\udemy sadık turan web geliştirme eğitimi\.Net Framework - C# - Veri Yapıları\Dizi(Array)Methods\Dizi(Array)Methods\bin\Debug\Dizi(Array)Methods.exe.config
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\udemy sadık turan web geliştirme eğitimi\.Net Framework - C# - Veri Yapıları\Dizi(Array)Methods\Dizi(Array)Methods\bin\Debug\Dizi(Array)Methods.exe
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\udemy sadık turan web geliştirme eğitimi\.Net Framework - C# - Veri Yapıları\Dizi(Array)Methods\Dizi(Array)Methods\bin\Debug\Dizi(Array)Methods.pdb
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\udemy sadık turan web geliştirme eğitimi\.Net Framework - C# - Veri Yapıları\Dizi(Array)Methods\Dizi(Array)Methods\obj\Debug\Dizi(Array)Methods.csproj.AssemblyReference.cache
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\udemy sadık turan web geliştirme eğitimi\.Net Framework - C# - Veri Yapıları\Dizi(Array)Methods\Dizi(Array)Methods\obj\Debug\Dizi(Array)Methods.csproj.CoreCompileInputs.cache
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\udemy sadık turan web geliştirme eğitimi\.Net Framework - C# - Veri Yapıları\Dizi(Array)Methods\Dizi(Array)Methods\obj\Debug\Dizi(Array)Methods.exe
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\udemy sadık turan web geliştirme eğitimi\.Net Framework - C# - Veri Yapıları\Dizi(Array)Methods\Dizi(Array)Methods\obj\Debug\Dizi(Array)Methods.pdb

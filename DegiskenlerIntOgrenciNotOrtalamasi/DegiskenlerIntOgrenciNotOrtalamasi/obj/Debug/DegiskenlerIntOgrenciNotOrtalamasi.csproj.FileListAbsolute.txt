@@ -1,0 +1,10 @@
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\Udemy Projeler\DegiskenlerIntOgrenciNotOrtalamasi\DegiskenlerIntOgrenciNotOrtalamasi\bin\Debug\DegiskenlerIntOgrenciNotOrtalamasi.exe.config
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\Udemy Projeler\DegiskenlerIntOgrenciNotOrtalamasi\DegiskenlerIntOgrenciNotOrtalamasi\bin\Debug\DegiskenlerIntOgrenciNotOrtalamasi.exe
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\Udemy Projeler\DegiskenlerIntOgrenciNotOrtalamasi\DegiskenlerIntOgrenciNotOrtalamasi\bin\Debug\DegiskenlerIntOgrenciNotOrtalamasi.pdb
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\Udemy Projeler\DegiskenlerIntOgrenciNotOrtalamasi\DegiskenlerIntOgrenciNotOrtalamasi\obj\Debug\DegiskenlerIntOgrenciNotOrtalamasi.csproj.AssemblyReference.cache
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\Udemy Projeler\DegiskenlerIntOgrenciNotOrtalamasi\DegiskenlerIntOgrenciNotOrtalamasi\obj\Debug\DegiskenlerIntOgrenciNotOrtalamasi.Form1.resources
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\Udemy Projeler\DegiskenlerIntOgrenciNotOrtalamasi\DegiskenlerIntOgrenciNotOrtalamasi\obj\Debug\DegiskenlerIntOgrenciNotOrtalamasi.Properties.Resources.resources
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\Udemy Projeler\DegiskenlerIntOgrenciNotOrtalamasi\DegiskenlerIntOgrenciNotOrtalamasi\obj\Debug\DegiskenlerIntOgrenciNotOrtalamasi.csproj.GenerateResource.cache
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\Udemy Projeler\DegiskenlerIntOgrenciNotOrtalamasi\DegiskenlerIntOgrenciNotOrtalamasi\obj\Debug\DegiskenlerIntOgrenciNotOrtalamasi.csproj.CoreCompileInputs.cache
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\Udemy Projeler\DegiskenlerIntOgrenciNotOrtalamasi\DegiskenlerIntOgrenciNotOrtalamasi\obj\Debug\DegiskenlerIntOgrenciNotOrtalamasi.exe
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\Udemy Projeler\DegiskenlerIntOgrenciNotOrtalamasi\DegiskenlerIntOgrenciNotOrtalamasi\obj\Debug\DegiskenlerIntOgrenciNotOrtalamasi.pdb
